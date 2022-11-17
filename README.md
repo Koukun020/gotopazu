@@ -3,7 +3,7 @@ ios/android向けアプリ 五等分の花嫁 五つ子ちゃんはパズルを�
 apiURL:https://www-cancer.enish-games.com/v{$version}/
 AssestBundleURL:https://www-cancer.enish-games.com/v{$version}/resource/list/{Ios or Android}
 assestURL:https://assets.enish-games.com/assets-cancer/Resources/{ios or android}/{$name}
-assetsAFSurl:"https://assets.enish-games.com/assets-cancer/Resources/share/{$name}
+assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name}
 
 2022-11-17 10:30:59 : $version = "1_31_426"
 
