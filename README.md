@@ -16,9 +16,15 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 　sizeがないもの：CRID usm映像ファイル<br>
 　idが50からはじまるもの：ACB/AFS 音声ファイル assetsAFSurlの方　hcaの暗号化なし<br>
 　その他：UnityFS　画像など<br>
- idの順番はランダムです
- <h3>campain</h3>
- 　懸賞応募ページ<br>
- 　su1とsu2は現段階で不明
-
+<h3>campain</h3>
+　懸賞応募ページ<br>
+　su1とsu2は現段階で不明<br>
+<h3>challenge</h3>
+　チャレンジ一覧<br>
+<h3>degree</h3>
+　称号<br>
+<h3>login</h3>
+　ログインボーナス<br>
+<h3>reward</h3>
+　プレゼント<br>
 
