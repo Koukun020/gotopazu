@@ -11,11 +11,12 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 <h2>各jsonの説明</h2>
 各jsonのkeyは適当にそれらしいものをつけただけです。実際の所は不明です。
 <h3>AssestBundle</h3>
-　nameがないもの：現段階で不明<br>
-　　　　　　　　　suの内容は意味ないです<br>
+　nameがないもの：不明<br>
 　sizeがないもの：CRID usm映像ファイル<br>
 　idが50からはじまるもの：ACB/AFS 音声ファイル assetsAFSurlの方　hcaの暗号化なし<br>
 　その他：UnityFS　画像など<br>
+　<br>
+　リストの元はiosの方ですが、一部androidも混ぜてあります。403でアクセスできない場合はandroidの方にアクセスしてください。
 <h3>campain</h3>
 　懸賞応募ページ<br>
 　su1とsu2は現段階で不明<br>
