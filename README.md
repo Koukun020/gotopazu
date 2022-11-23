@@ -23,8 +23,26 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 　チャレンジ一覧<br>
 <h3>degree</h3>
 　称号<br>
+<h3>eventop</h3>
+　イベント開始時のらいはのセリフ<br>
+　idはイベントID<br>
+<h3>gacha</h3>
+　ガチャ一覧<br>
+  infoidは下のgachainfoと連動<br>
+<h3>gachainfo</h3>
+　ガチャ説明？<br>
+<h3>item</h3>
+　アイテム一覧<br>
+　末尾が1が名前、2が説明<br>
 <h3>login</h3>
 　ログインボーナス<br>
 <h3>reward</h3>
 　プレゼント<br>
-
+<h3>shop</h3>
+　課金一覧<br>
+<h3>skill</h3>
+　スキル説明一覧<br>
+<h3>stamp</h3>
+　スタンプ一覧<br>
+<h3>text</h3>
+　各説明テキスト<br>
