@@ -1,0 +1,2480 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2195584510539435343
+  },
+  "m_Name": "FromScripts",
+  "importVersion": 0,
+  "importGridList": [
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Command",
+            "Arg1",
+            "Arg2",
+            "Arg3",
+            "Arg4",
+            "Arg5",
+            "Arg6",
+            "Text",
+            "PageCtrl",
+            "CueSheet",
+            "Voice",
+            "WindowType",
+            "WaitType",
+            "ExArg1",
+            "ExArg2"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "*Boot"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "SetMotion",
+            "一花",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "SetMotion",
+            "二乃",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "SetMotion",
+            "三玖",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "SetMotion",
+            "四葉",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "SetMotion",
+            "五月",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "SetMotion",
+            "らいは",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 8,
+          "strings": [
+            "SetMotion",
+            "花嫁",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 9,
+          "strings": [
+            "SetIdleMotion",
+            "一花",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 10,
+          "strings": [
+            "SetIdleMotion",
+            "二乃",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 11,
+          "strings": [
+            "SetIdleMotion",
+            "三玖",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 12,
+          "strings": [
+            "SetIdleMotion",
+            "四葉",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 13,
+          "strings": [
+            "SetIdleMotion",
+            "五月",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 14,
+          "strings": [
+            "SetIdleMotion",
+            "らいは",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 15,
+          "strings": [
+            "SetIdleMotion",
+            "花嫁",
+            "待機1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 16,
+          "strings": [
+            "StopBgm",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 17,
+          "strings": [
+            "Bg",
+            "タイトル背景２２年１１月２",
+            "",
+            "",
+            "",
+            "",
+            "0"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 18,
+          "strings": [
+            "EventLogo",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 19,
+          "strings": [
+            "Wait",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 20,
+          "strings": [
+            "EventLogo",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 21,
+          "strings": [
+            "Se",
+            "開始ジングル"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 22,
+          "strings": [
+            "TitleAnim",
+            "エピローグ",
+            "ゆったり時間",
+            "",
+            "true",
+            "6"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 23,
+          "strings": [
+            "Wait",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "5.7"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 24,
+          "strings": [
+            "Bgm",
+            "感動系／静かめ"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 25,
+          "strings": [
+            "Bg",
+            "【黒背景】",
+            "",
+            "",
+            "",
+            "",
+            "0"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 26,
+          "strings": [
+            "Wait",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 27,
+          "strings": [
+            "PageClear",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 28,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 29,
+          "strings": [
+            "Selection",
+            "*:ラベル_1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "ん…？　いつの間にか寝てたのか…"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 30,
+          "strings": [
+            "*:ラベル_1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 31,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 32,
+          "strings": [
+            "ChoiceEffect"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 33,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 34,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 35,
+          "strings": [
+            "CharacterOff",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 36,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 37,
+          "strings": [
+            "Bg",
+            "スチル・おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "0.5"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 38,
+          "strings": [
+            "WaitInput",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 39,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 40,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 41,
+          "strings": [
+            "Voice",
+            "三玖",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_001"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 42,
+          "strings": [
+            "",
+            "三玖",
+            "<Off>",
+            "",
+            "",
+            "",
+            "",
+            "あ…　起きた？"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 43,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 44,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 45,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 46,
+          "strings": [
+            "Voice",
+            "二乃",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_002"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 47,
+          "strings": [
+            "",
+            "二乃",
+            "<Off>",
+            "",
+            "",
+            "",
+            "",
+            "呑気な顔で寝てたわね"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 48,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 49,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 50,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 51,
+          "strings": [
+            "Voice",
+            "一花",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_003"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 52,
+          "strings": [
+            "",
+            "一花",
+            "<Off>",
+            "",
+            "",
+            "",
+            "",
+            "眠い時はいっぱい寝ていいと思うよ♪\\nふぁ～　私ももうちょっとお昼寝しよっかなぁ"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 53,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 54,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 55,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 56,
+          "strings": [
+            "Voice",
+            "四葉",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_004"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 57,
+          "strings": [
+            "",
+            "四葉",
+            "<Off>",
+            "",
+            "",
+            "",
+            "",
+            "おはようございます！\\n<param=PLAYER_LAST_NAME_KANJI>さん　私よりもぐっすりでしたね！"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 58,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 59,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 60,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 61,
+          "strings": [
+            "Voice",
+            "三玖",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_005"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 62,
+          "strings": [
+            "",
+            "三玖",
+            "<Off>",
+            "",
+            "",
+            "",
+            "",
+            "ふふっ…<param=PLAYER_FIRST_NAME_KANA>も気分転換に遊ばない？"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 63,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 64,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 65,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 66,
+          "strings": [
+            "Voice",
+            "五月",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_006"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 67,
+          "strings": [
+            "",
+            "五月",
+            "<Off>",
+            "",
+            "",
+            "",
+            "",
+            "お茶もお菓子も　たくさんありますよ"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 68,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 69,
+          "strings": [
+            "CharacterOff",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 70,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 71,
+          "strings": [
+            "CharacterOff",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 72,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 73,
+          "strings": [
+            "Bg",
+            "タイトル背景２２年１１月２",
+            "",
+            "",
+            "",
+            "",
+            "0.5"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 74,
+          "strings": [
+            "WaitInput",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 75,
+          "strings": [
+            "Selection",
+            "*分岐フロー01_01",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "一花が寝るなら　俺ももう少し寝るか…"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 76,
+          "strings": [
+            "Selection",
+            "*分岐フロー01_02",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "二乃　何飲んでるんだ？"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 77,
+          "strings": [
+            "Selection",
+            "*分岐フロー01_03",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "三玖は何のゲームをしてるんだ？"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 78,
+          "strings": [
+            "Selection",
+            "*分岐フロー01_04",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "四葉の方が早く起きてたのか…"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 79,
+          "strings": [
+            "Selection",
+            "*分岐フロー01_05",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "五月がそう言うなら　菓子を貰おうか"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 80,
+          "strings": [
+            "*分岐フロー01_01"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 81,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 82,
+          "strings": [
+            "ChoiceEffect"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 83,
+          "strings": [
+            "CameraZoom",
+            "0.4"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 84,
+          "strings": [
+            "",
+            "一花",
+            "おうちデート",
+            "近_中",
+            "",
+            "",
+            "0.2",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 85,
+          "strings": [
+            "OrderInLayer",
+            "一花",
+            "100"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 86,
+          "strings": [
+            "SetFacial",
+            "一花"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 87,
+          "strings": [
+            "SetMotion",
+            "一花",
+            "ほほ笑み"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 88,
+          "strings": [
+            "SetFacial",
+            "一花",
+            "笑い・小"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 89,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 90,
+          "strings": [
+            "SetMouth",
+            "一花"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 91,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 92,
+          "strings": [
+            "Voice",
+            "一花",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_007"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 93,
+          "strings": [
+            "",
+            "一花",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "ふふっ　いいね！\\n今度はお姉さんが添い寝してあげる"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 94,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 95,
+          "strings": [
+            "SetFacial",
+            "一花",
+            "笑い・小"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 96,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 97,
+          "strings": [
+            "SetMouth",
+            "一花"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 98,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 99,
+          "strings": [
+            "Voice",
+            "一花",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_008"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 100,
+          "strings": [
+            "",
+            "一花",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "一緒にお昼寝するのも\\n立派なおうちデートだもんね♪"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 101,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 102,
+          "strings": [
+            "Jump",
+            "*分岐フロー01_終了"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 103,
+          "strings": [
+            "*分岐フロー01_02"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 104,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 105,
+          "strings": [
+            "ChoiceEffect"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 106,
+          "strings": [
+            "CameraZoom",
+            "0.4"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 107,
+          "strings": [
+            "",
+            "二乃",
+            "おうちデート",
+            "近_中",
+            "",
+            "",
+            "0.2",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 108,
+          "strings": [
+            "OrderInLayer",
+            "二乃",
+            "100"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 109,
+          "strings": [
+            "SetFacial",
+            "二乃"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 110,
+          "strings": [
+            "SetMotion",
+            "二乃",
+            "会話"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 111,
+          "strings": [
+            "SetFacial",
+            "二乃",
+            "通常"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 112,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 113,
+          "strings": [
+            "SetMouth",
+            "二乃"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 114,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 115,
+          "strings": [
+            "Voice",
+            "二乃",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_009"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 116,
+          "strings": [
+            "",
+            "二乃",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "紅茶よ\\nちょうどあんたの分も淹れた所だけど…いる？"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 117,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 118,
+          "strings": [
+            "SetFacial",
+            "二乃"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 119,
+          "strings": [
+            "SetMotion",
+            "二乃",
+            "照れ"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 120,
+          "strings": [
+            "SetFacial",
+            "二乃",
+            "通常"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 121,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 122,
+          "strings": [
+            "SetMouth",
+            "二乃"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 123,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 124,
+          "strings": [
+            "Voice",
+            "二乃",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_010"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 125,
+          "strings": [
+            "",
+            "二乃",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "…って\\n今のなんだか　おうちデートっぽいわね…！"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 126,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 127,
+          "strings": [
+            "Jump",
+            "*分岐フロー01_終了"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 128,
+          "strings": [
+            "*分岐フロー01_03"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 129,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 130,
+          "strings": [
+            "ChoiceEffect"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 131,
+          "strings": [
+            "CameraZoom",
+            "0.4"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 132,
+          "strings": [
+            "",
+            "三玖",
+            "おうちデート",
+            "近_中",
+            "",
+            "",
+            "0.2",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 133,
+          "strings": [
+            "OrderInLayer",
+            "三玖",
+            "100"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 134,
+          "strings": [
+            "SetFacial",
+            "三玖",
+            "通常"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 135,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 136,
+          "strings": [
+            "SetMouth",
+            "三玖"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 137,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 138,
+          "strings": [
+            "Voice",
+            "三玖",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_011"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 139,
+          "strings": [
+            "",
+            "三玖",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "戦国武将が出てくるゲームだよ　<param=PLAYER_FIRST_NAME_KANA>もやる？"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 140,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 141,
+          "strings": [
+            "SetFacial",
+            "三玖"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 142,
+          "strings": [
+            "SetMotion",
+            "三玖",
+            "肯定"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 143,
+          "strings": [
+            "SetFacial",
+            "三玖",
+            "通常"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 144,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 145,
+          "strings": [
+            "SetMouth",
+            "三玖"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 146,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 147,
+          "strings": [
+            "Voice",
+            "三玖",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_012"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 148,
+          "strings": [
+            "",
+            "三玖",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "一緒にゲームするのも\\nおうちデートらしい過ごし方だよね"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 149,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 150,
+          "strings": [
+            "Jump",
+            "*分岐フロー01_終了"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 151,
+          "strings": [
+            "*分岐フロー01_04"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 152,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 153,
+          "strings": [
+            "ChoiceEffect"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 154,
+          "strings": [
+            "CameraZoom",
+            "0.4"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 155,
+          "strings": [
+            "",
+            "四葉",
+            "おうちデート",
+            "近_中",
+            "",
+            "",
+            "0.2",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 156,
+          "strings": [
+            "OrderInLayer",
+            "四葉",
+            "100"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 157,
+          "strings": [
+            "SetFacial",
+            "四葉"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 158,
+          "strings": [
+            "SetMotion",
+            "四葉",
+            "会話"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 159,
+          "strings": [
+            "SetFacial",
+            "四葉",
+            "笑い"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 160,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 161,
+          "strings": [
+            "SetMouth",
+            "四葉"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 162,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 163,
+          "strings": [
+            "Voice",
+            "四葉",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_013"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 164,
+          "strings": [
+            "",
+            "四葉",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "はいっ　先に起きて\\n<param=PLAYER_LAST_NAME_KANJI>さんの寝顔を見てました！"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 165,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 166,
+          "strings": [
+            "SetFacial",
+            "四葉",
+            "笑い・小"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 167,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 168,
+          "strings": [
+            "SetMouth",
+            "四葉"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 169,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 170,
+          "strings": [
+            "Voice",
+            "四葉",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_014"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 171,
+          "strings": [
+            "",
+            "四葉",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "こうして起きたばっかりの\\n<param=PLAYER_LAST_NAME_KANJI>さんに「おはよう」って\\n言えるのも…おうちデートならではですよね"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 172,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 173,
+          "strings": [
+            "Jump",
+            "*分岐フロー01_終了"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 174,
+          "strings": [
+            "*分岐フロー01_05"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 175,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 176,
+          "strings": [
+            "ChoiceEffect"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 177,
+          "strings": [
+            "CameraZoom",
+            "0.4"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 178,
+          "strings": [
+            "",
+            "五月",
+            "おうちデート",
+            "近_中",
+            "",
+            "",
+            "0.2",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 179,
+          "strings": [
+            "OrderInLayer",
+            "五月",
+            "100"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 180,
+          "strings": [
+            "SetFacial",
+            "五月"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 181,
+          "strings": [
+            "SetMotion",
+            "五月",
+            "会話"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 182,
+          "strings": [
+            "SetFacial",
+            "五月",
+            "通常"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 183,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 184,
+          "strings": [
+            "SetMouth",
+            "五月"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 185,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 186,
+          "strings": [
+            "Voice",
+            "五月",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_015"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 187,
+          "strings": [
+            "",
+            "五月",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "ええ　どうぞ"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 188,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 189,
+          "strings": [
+            "SetFacial",
+            "五月"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 190,
+          "strings": [
+            "SetMotion",
+            "五月",
+            "照れ"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 191,
+          "strings": [
+            "SetFacial",
+            "五月",
+            "通常"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 192,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 193,
+          "strings": [
+            "SetMouth",
+            "五月"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 194,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 195,
+          "strings": [
+            "Voice",
+            "五月",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70750002_016"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 196,
+          "strings": [
+            "",
+            "五月",
+            "おうちデート",
+            "",
+            "",
+            "",
+            "",
+            "……こういうことをすると\\nおうちデートに見えるのでしょうか\\n少し意識してしまいます"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 197,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 198,
+          "strings": [
+            "Jump",
+            "*分岐フロー01_終了"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 199,
+          "strings": [
+            "*分岐フロー01_終了"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 200,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 201,
+          "strings": [
+            "ChoiceEffect"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 202,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 203,
+          "strings": [
+            "NameType",
+            "Narration"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 204,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "おうちデートっていう言い方は\\n気恥ずかしいが…"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 205,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 206,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 207,
+          "strings": [
+            "NameType",
+            "Narration"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 208,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "こうして五つ子とリラックスした時間を過ごすのも\\nなかなか悪くないな――"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 209,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 210,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 211,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 212,
+          "strings": [
+            "FadeOut",
+            "white",
+            "FadeCamera",
+            "",
+            "",
+            "",
+            "0.5"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 213,
+          "strings": [
+            "CharacterOff",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 214,
+          "strings": [
+            "Bg",
+            "タイトル背景２２年１１月２",
+            "",
+            "",
+            "",
+            "",
+            "0"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 215,
+          "strings": [
+            "FadeIn",
+            "white",
+            "FadeCamera",
+            "",
+            "",
+            "",
+            "0.5"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 216,
+          "strings": [
+            "EventEndAnim",
+            "Fin.",
+            "",
+            "",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 217,
+          "strings": [
+            "EventStill"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 218,
+          "strings": [
+            "Wait",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "4"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 219,
+          "strings": [
+            "EndDetection"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 220,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        }
+      ],
+      "name": "FromScripts",
+      "type": 1,
+      "textLength": 3995,
+      "headerRow": 0,
+      "entityIndexTbl": [],
+      "entityDataList": []
+    }
+  ]
+}
