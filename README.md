@@ -14,6 +14,7 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 　nameがないもの：不明<br>
 　sizeがないもの：CRID usm映像ファイル<br>
 　idが50からはじまるもの：ACB/AFS 音声ファイル assetsAFSurlの方　hcaの暗号化なし<br>
+　　末尾が0:acbファイル 1:awbファイル<br>
 　その他：UnityFS　画像など<br>
 　<br>
 　リストの元はiosの方ですが、一部androidも混ぜてあります。403でアクセスできない場合はandroidの方にアクセスしてください。
@@ -47,3 +48,10 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 　スタンプ一覧<br>
 <h3>text</h3>
 　各説明テキスト<br>
+
+<h2>event/FromScripts/<イベントID></h2>
+イベントのシナリオデータです<br>
+　01:プロローグ<br>
+　02:エピローグ<br>
+　X1:第X話 前編<br>
+　X2:第X話 後編<br>
