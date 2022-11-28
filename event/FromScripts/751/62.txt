@@ -256,8 +256,8 @@
           "rowIndex": 22,
           "strings": [
             "TitleAnim",
-            "プロローグ",
-            "南国クリスマス",
+            "第６話",
+            "パーティのごちそう 後編",
             "",
             "true",
             "6"
@@ -292,7 +292,7 @@
           "rowIndex": 25,
           "strings": [
             "Bg",
-            "海岸（昼）",
+            "海辺のカフェ",
             "",
             "",
             "",
@@ -319,8 +319,8 @@
         {
           "rowIndex": 27,
           "strings": [
-            "MessageWindow",
-            "true"
+            "CameraZoom",
+            "0.4"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -328,8 +328,18 @@
         {
           "rowIndex": 28,
           "strings": [
-            "NameType",
-            "Narration"
+            "",
+            "二乃",
+            "クリスマス2022",
+            "近_中",
+            "",
+            "",
+            "0.2",
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -337,14 +347,9 @@
         {
           "rowIndex": 29,
           "strings": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "青い海　白い砂浜…"
+            "OrderInLayer",
+            "二乃",
+            "100"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -352,14 +357,34 @@
         {
           "rowIndex": 30,
           "strings": [
-            "MessageWindow",
-            "false"
+            "SetFacial",
+            "二乃"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
         },
         {
           "rowIndex": 31,
+          "strings": [
+            "SetMotion",
+            "二乃",
+            "怒り"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 32,
+          "strings": [
+            "SetFacial",
+            "二乃",
+            "困惑"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 33,
           "strings": [
             "MessageWindow",
             "true"
@@ -368,7 +393,155 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 32,
+          "rowIndex": 34,
+          "strings": [
+            "SetMouth",
+            "二乃"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 35,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 36,
+          "strings": [
+            "Voice",
+            "二乃",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70751062_001"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 37,
+          "strings": [
+            "",
+            "二乃",
+            "クリスマス2022",
+            "",
+            "",
+            "",
+            "",
+            "もうっ…用が済んだなら\\nさっさと次の手伝いに行きなさいよね"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 38,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 39,
+          "strings": [
+            "SetFacial",
+            "二乃",
+            "驚き"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 40,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 41,
+          "strings": [
+            "SetMouth",
+            "二乃"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 42,
+          "strings": [
+            "NameType",
+            "Member"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 43,
+          "strings": [
+            "Voice",
+            "二乃",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70751062_002"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 44,
+          "strings": [
+            "",
+            "二乃",
+            "クリスマス2022",
+            "",
+            "",
+            "",
+            "",
+            "って…何でこの荷物　こんなに濡れてるの？"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 45,
+          "strings": [
+            "MessageWindow",
+            "false"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 46,
+          "strings": [
+            "MessageWindow",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 47,
           "strings": [
             "NameType",
             "Narration"
@@ -377,187 +550,16 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 33,
-          "strings": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "今は１２月――\\nなのに何故　俺はこんな所にいるんだ…"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 34,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 35,
-          "strings": [
-            "CameraZoom",
-            "0.2"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 36,
-          "strings": [
-            "",
-            "一花",
-            "クリスマス2022",
-            "左",
-            "",
-            "",
-            "0.2",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 37,
-          "strings": [
-            "OrderInLayer",
-            "一花",
-            "100"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 38,
-          "strings": [
-            "SetFacial",
-            "一花",
-            "通常"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 39,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 40,
-          "strings": [
-            "CameraZoom",
-            "0.2"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 41,
-          "strings": [
-            "",
-            "二乃",
-            "クリスマス2022",
-            "中央左",
-            "",
-            "",
-            "0.2",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 42,
-          "strings": [
-            "OrderInLayer",
-            "二乃",
-            "100"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 43,
-          "strings": [
-            "SetFacial",
-            "二乃",
-            "通常"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 44,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 45,
-          "strings": [
-            "CameraZoom",
-            "0.2"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 46,
-          "strings": [
-            "",
-            "三玖",
-            "クリスマス2022",
-            "中央",
-            "",
-            "",
-            "0.2",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 47,
-          "strings": [
-            "OrderInLayer",
-            "三玖",
-            "100"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
           "rowIndex": 48,
           "strings": [
-            "SetFacial",
-            "三玖",
-            "通常"
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "中身は真空パックされてる食材や野菜だから\\n特に問題ないと思うが…念のため\\nさっきの一花との出来事を話しておくか"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -574,53 +576,14 @@
         {
           "rowIndex": 50,
           "strings": [
-            "CameraZoom",
-            "0.2"
+            "PageClear",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
         },
         {
           "rowIndex": 51,
-          "strings": [
-            "",
-            "四葉",
-            "クリスマス2022",
-            "中央右",
-            "",
-            "",
-            "0.2",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 52,
-          "strings": [
-            "OrderInLayer",
-            "四葉",
-            "100"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 53,
-          "strings": [
-            "SetFacial",
-            "四葉",
-            "通常"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 54,
           "strings": [
             "MessageWindow",
             "false"
@@ -629,10 +592,41 @@
           "isCommentOut": 0
         },
         {
+          "rowIndex": 52,
+          "strings": [
+            "Selection",
+            "*:ラベル_1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "――と　いうわけだ"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 53,
+          "strings": [
+            "*:ラベル_1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 54,
+          "strings": [
+            "PageClear",
+            "true"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
           "rowIndex": 55,
           "strings": [
-            "CameraZoom",
-            "0.2"
+            "ChoiceEffect"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -640,18 +634,8 @@
         {
           "rowIndex": 56,
           "strings": [
-            "",
-            "五月",
-            "クリスマス2022",
-            "右",
-            "",
-            "",
-            "0.2",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "PageClear",
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -659,9 +643,8 @@
         {
           "rowIndex": 57,
           "strings": [
-            "OrderInLayer",
-            "五月",
-            "100"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -670,8 +653,7 @@
           "rowIndex": 58,
           "strings": [
             "SetFacial",
-            "五月",
-            "通常"
+            "二乃"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -679,8 +661,9 @@
         {
           "rowIndex": 59,
           "strings": [
-            "MessageWindow",
-            "false"
+            "SetMotion",
+            "二乃",
+            "否定"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -689,33 +672,14 @@
           "rowIndex": 60,
           "strings": [
             "SetFacial",
-            "一花"
+            "二乃",
+            "通常"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
         },
         {
           "rowIndex": 61,
-          "strings": [
-            "SetMotion",
-            "一花",
-            "キャラ固有1"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 62,
-          "strings": [
-            "SetFacial",
-            "一花",
-            "笑い・小"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 63,
           "strings": [
             "MessageWindow",
             "true"
@@ -724,16 +688,16 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 64,
+          "rowIndex": 62,
           "strings": [
             "SetMouth",
-            "一花"
+            "二乃"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
         },
         {
-          "rowIndex": 65,
+          "rowIndex": 63,
           "strings": [
             "NameType",
             "Member"
@@ -742,10 +706,10 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 66,
+          "rowIndex": 64,
           "strings": [
             "Voice",
-            "一花",
+            "二乃",
             "",
             "",
             "",
@@ -754,7 +718,31 @@
             "",
             "",
             "Voice",
-            "ES70751001_001"
+            "ES70751062_003"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 65,
+          "strings": [
+            "",
+            "二乃",
+            "クリスマス2022",
+            "",
+            "",
+            "",
+            "",
+            "プールから女の子一人も引き上げられないなんて…\\nいつも勉強ばっかりしてるから\\n体力落ちてるんじゃない？"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 66,
+          "strings": [
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -762,14 +750,8 @@
         {
           "rowIndex": 67,
           "strings": [
-            "",
-            "一花",
-            "クリスマス2022",
-            "",
-            "",
-            "",
-            "",
-            "<param=PLAYER_FIRST_NAME_KANA>君　お待たせー！"
+            "PageClear",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -786,8 +768,14 @@
         {
           "rowIndex": 69,
           "strings": [
-            "PageClear",
-            "false"
+            "Selection",
+            "*:ラベル_2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "余計なお世話だ"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -795,8 +783,7 @@
         {
           "rowIndex": 70,
           "strings": [
-            "MessageWindow",
-            "false"
+            "*:ラベル_2"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -804,14 +791,8 @@
         {
           "rowIndex": 71,
           "strings": [
-            "Selection",
-            "*:ラベル_1",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "お前ら　その格好は…"
+            "PageClear",
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -819,7 +800,7 @@
         {
           "rowIndex": 72,
           "strings": [
-            "*:ラベル_1"
+            "ChoiceEffect"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -836,7 +817,8 @@
         {
           "rowIndex": 74,
           "strings": [
-            "ChoiceEffect"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -844,8 +826,8 @@
         {
           "rowIndex": 75,
           "strings": [
-            "PageClear",
-            "true"
+            "SetFacial",
+            "二乃"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -853,8 +835,9 @@
         {
           "rowIndex": 76,
           "strings": [
-            "MessageWindow",
-            "false"
+            "SetMotion",
+            "二乃",
+            "会話"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -863,33 +846,14 @@
           "rowIndex": 77,
           "strings": [
             "SetFacial",
-            "四葉"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 78,
-          "strings": [
-            "SetMotion",
-            "四葉",
-            "肯定"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 79,
-          "strings": [
-            "SetFacial",
-            "四葉",
+            "二乃",
             "通常"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
         },
         {
-          "rowIndex": 80,
+          "rowIndex": 78,
           "strings": [
             "MessageWindow",
             "true"
@@ -898,16 +862,16 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 81,
+          "rowIndex": 79,
           "strings": [
             "SetMouth",
-            "四葉"
+            "二乃"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
         },
         {
-          "rowIndex": 82,
+          "rowIndex": 80,
           "strings": [
             "NameType",
             "Member"
@@ -916,10 +880,10 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 83,
+          "rowIndex": 81,
           "strings": [
             "Voice",
-            "四葉",
+            "二乃",
             "",
             "",
             "",
@@ -928,7 +892,31 @@
             "",
             "",
             "Voice",
-            "ES70751001_002"
+            "ES70751062_004"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 82,
+          "strings": [
+            "",
+            "二乃",
+            "クリスマス2022",
+            "",
+            "",
+            "",
+            "",
+            "まあ…ちょうどよかったわ\\n私からのプレゼントを使えば　勉強もはかどるから\\n空いた時間で体力づくりもできると思うわよ"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 83,
+          "strings": [
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -936,14 +924,8 @@
         {
           "rowIndex": 84,
           "strings": [
-            "",
-            "四葉",
-            "クリスマス2022",
-            "",
-            "",
-            "",
-            "",
-            "はいっ　今日のために気合いを入れて選びました！\\nこの水着　似合ってますか？"
+            "PageClear",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -960,8 +942,14 @@
         {
           "rowIndex": 86,
           "strings": [
-            "PageClear",
-            "false"
+            "Selection",
+            "*:ラベル_3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "時間が空いてたら他の勉強をするが…"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -969,8 +957,7 @@
         {
           "rowIndex": 87,
           "strings": [
-            "MessageWindow",
-            "false"
+            "*:ラベル_3"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -978,14 +965,8 @@
         {
           "rowIndex": 88,
           "strings": [
-            "Selection",
-            "*:ラベル_2",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "まあ　似合ってはいるが…"
+            "PageClear",
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -993,7 +974,7 @@
         {
           "rowIndex": 89,
           "strings": [
-            "*:ラベル_2"
+            "ChoiceEffect"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1010,7 +991,8 @@
         {
           "rowIndex": 91,
           "strings": [
-            "ChoiceEffect"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1018,8 +1000,9 @@
         {
           "rowIndex": 92,
           "strings": [
-            "PageClear",
-            "true"
+            "SetFacial",
+            "二乃",
+            "ジト目"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1028,7 +1011,7 @@
           "rowIndex": 93,
           "strings": [
             "MessageWindow",
-            "false"
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1036,8 +1019,8 @@
         {
           "rowIndex": 94,
           "strings": [
-            "SetFacial",
-            "三玖"
+            "SetMouth",
+            "二乃"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1045,9 +1028,8 @@
         {
           "rowIndex": 95,
           "strings": [
-            "SetMotion",
-            "三玖",
-            "困惑"
+            "NameType",
+            "Member"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1055,9 +1037,17 @@
         {
           "rowIndex": 96,
           "strings": [
-            "SetFacial",
-            "三玖",
-            "通常"
+            "Voice",
+            "二乃",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70751062_005"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1065,8 +1055,14 @@
         {
           "rowIndex": 97,
           "strings": [
-            "MessageWindow",
-            "true"
+            "",
+            "二乃",
+            "クリスマス2022",
+            "",
+            "",
+            "",
+            "",
+            "はぁ～　あんたって…\\nほんと勉強馬鹿ね"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1074,8 +1070,8 @@
         {
           "rowIndex": 98,
           "strings": [
-            "SetMouth",
-            "三玖"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1083,8 +1079,8 @@
         {
           "rowIndex": 99,
           "strings": [
-            "NameType",
-            "Member"
+            "PageClear",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1092,17 +1088,8 @@
         {
           "rowIndex": 100,
           "strings": [
-            "Voice",
-            "三玖",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "Voice",
-            "ES70751001_003"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1110,14 +1097,14 @@
         {
           "rowIndex": 101,
           "strings": [
-            "",
-            "三玖",
-            "クリスマス2022",
-            "",
+            "Selection",
+            "*:ラベル_4",
             "",
             "",
             "",
-            "あ…そういえば\\n<param=PLAYER_FIRST_NAME_KANA>にアレ…言ってなかったかも"
+            "",
+            "",
+            "だが　勉強がはかどるアイテムは気になるな"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1125,8 +1112,7 @@
         {
           "rowIndex": 102,
           "strings": [
-            "MessageWindow",
-            "false"
+            "*:ラベル_4"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1134,9 +1120,8 @@
         {
           "rowIndex": 103,
           "strings": [
-            "SetFacial",
-            "五月",
-            "通常"
+            "PageClear",
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1144,8 +1129,7 @@
         {
           "rowIndex": 104,
           "strings": [
-            "MessageWindow",
-            "true"
+            "ChoiceEffect"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1153,8 +1137,8 @@
         {
           "rowIndex": 105,
           "strings": [
-            "SetMouth",
-            "五月"
+            "PageClear",
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1162,8 +1146,8 @@
         {
           "rowIndex": 106,
           "strings": [
-            "NameType",
-            "Member"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1171,17 +1155,8 @@
         {
           "rowIndex": 107,
           "strings": [
-            "Voice",
-            "五月",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "Voice",
-            "ES70751001_004"
+            "SetFacial",
+            "二乃"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1189,14 +1164,9 @@
         {
           "rowIndex": 108,
           "strings": [
-            "",
-            "五月",
-            "クリスマス2022",
-            "",
-            "",
-            "",
-            "",
-            "確かに　そうですね"
+            "SetMotion",
+            "二乃",
+            "会話"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1204,8 +1174,9 @@
         {
           "rowIndex": 109,
           "strings": [
-            "MessageWindow",
-            "false"
+            "SetFacial",
+            "二乃",
+            "通常"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1213,8 +1184,8 @@
         {
           "rowIndex": 110,
           "strings": [
-            "SetFacial",
-            "四葉"
+            "MessageWindow",
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1222,9 +1193,8 @@
         {
           "rowIndex": 111,
           "strings": [
-            "SetMotion",
-            "四葉",
-            "会話"
+            "SetMouth",
+            "二乃"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1232,9 +1202,8 @@
         {
           "rowIndex": 112,
           "strings": [
-            "SetFacial",
-            "四葉",
-            "通常"
+            "NameType",
+            "Member"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1242,8 +1211,17 @@
         {
           "rowIndex": 113,
           "strings": [
-            "MessageWindow",
-            "true"
+            "Voice",
+            "二乃",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Voice",
+            "ES70751062_006"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1251,8 +1229,14 @@
         {
           "rowIndex": 114,
           "strings": [
-            "SetMouth",
-            "四葉"
+            "",
+            "二乃",
+            "クリスマス2022",
+            "",
+            "",
+            "",
+            "",
+            "どんなプレゼントかは\\nパーティが始まってからのお楽しみよ"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1260,8 +1244,8 @@
         {
           "rowIndex": 115,
           "strings": [
-            "NameType",
-            "Member"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1269,17 +1253,8 @@
         {
           "rowIndex": 116,
           "strings": [
-            "Voice",
-            "四葉",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "Voice",
-            "ES70751001_005"
+            "MessageWindow",
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1287,14 +1262,8 @@
         {
           "rowIndex": 117,
           "strings": [
-            "",
-            "四葉",
-            "クリスマス2022",
-            "",
-            "",
-            "",
-            "",
-            "うんうん　まずはアレを言わなきゃ！"
+            "NameType",
+            "Narration"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1302,8 +1271,14 @@
         {
           "rowIndex": 118,
           "strings": [
-            "MessageWindow",
-            "false"
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "五つ子がそれぞれ　どんなプレゼントを\\n用意しているのか…情報が揃ってきたな"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1311,8 +1286,8 @@
         {
           "rowIndex": 119,
           "strings": [
-            "SetFacial",
-            "二乃"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1320,9 +1295,8 @@
         {
           "rowIndex": 120,
           "strings": [
-            "SetMotion",
-            "二乃",
-            "会話"
+            "MessageWindow",
+            "true"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1330,9 +1304,8 @@
         {
           "rowIndex": 121,
           "strings": [
-            "SetFacial",
-            "二乃",
-            "通常"
+            "NameType",
+            "Narration"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1340,8 +1313,14 @@
         {
           "rowIndex": 122,
           "strings": [
-            "MessageWindow",
-            "true"
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "追加のプレゼントが欲しい訳じゃないが\\nあいつらの家庭教師として\\n軽々と当てる姿は見せておきたい"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1349,8 +1328,8 @@
         {
           "rowIndex": 123,
           "strings": [
-            "SetMouth",
-            "二乃"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1358,8 +1337,8 @@
         {
           "rowIndex": 124,
           "strings": [
-            "NameType",
-            "Member"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -1367,280 +1346,14 @@
         {
           "rowIndex": 125,
           "strings": [
-            "Voice",
-            "二乃",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "Voice",
-            "ES70751001_006"
+            "MessageWindow",
+            "false"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
         },
         {
           "rowIndex": 126,
-          "strings": [
-            "",
-            "二乃",
-            "クリスマス2022",
-            "",
-            "",
-            "",
-            "",
-            "そうね"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 127,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 128,
-          "strings": [
-            "SetFacial",
-            "五月",
-            "通常"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 129,
-          "strings": [
-            "MessageWindow",
-            "true"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 130,
-          "strings": [
-            "SetMouth",
-            "五月"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 131,
-          "strings": [
-            "NameType",
-            "Member"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 132,
-          "strings": [
-            "Voice",
-            "五月",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "Voice",
-            "ES70751001_007"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 133,
-          "strings": [
-            "",
-            "五月",
-            "クリスマス2022",
-            "",
-            "",
-            "",
-            "",
-            "せーの…"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 134,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 135,
-          "strings": [
-            "MessageWindow",
-            "true"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 136,
-          "strings": [
-            "NameType",
-            "Member"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 137,
-          "strings": [
-            "Voice",
-            "五つ子",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "Voice",
-            "ES70751001_008"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 138,
-          "strings": [
-            "",
-            "五つ子",
-            "<Off>",
-            "",
-            "",
-            "",
-            "",
-            "メリークリスマス！"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 139,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 140,
-          "strings": [
-            "PageClear",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 141,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 142,
-          "strings": [
-            "Selection",
-            "*:ラベル_3",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "……南の島でサンタって…おかしいだろ！！"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 143,
-          "strings": [
-            "*:ラベル_3"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 144,
-          "strings": [
-            "PageClear",
-            "true"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 145,
-          "strings": [
-            "ChoiceEffect"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 146,
-          "strings": [
-            "PageClear",
-            "true"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 147,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 148,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 149,
-          "strings": [
-            "MessageWindow",
-            "false"
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 150,
           "strings": [
             "FadeOut",
             "white",
@@ -1654,7 +1367,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 151,
+          "rowIndex": 127,
           "strings": [
             "CharacterOff",
             "",
@@ -1668,7 +1381,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 152,
+          "rowIndex": 128,
           "strings": [
             "Bg",
             "終了背景",
@@ -1682,7 +1395,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 153,
+          "rowIndex": 129,
           "strings": [
             "FadeIn",
             "white",
@@ -1696,10 +1409,10 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 154,
+          "rowIndex": 130,
           "strings": [
             "EventEndAnim",
-            "第１話へ続く！",
+            "第７話　前編へ続く！",
             "",
             "",
             "true"
@@ -1708,7 +1421,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 155,
+          "rowIndex": 131,
           "strings": [
             "Wait",
             "",
@@ -1722,7 +1435,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 156,
+          "rowIndex": 132,
           "strings": [
             "EndDetection"
           ],
@@ -1730,7 +1443,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 157,
+          "rowIndex": 133,
           "strings": [
             "EndScenario"
           ],
@@ -1740,7 +1453,7 @@
       ],
       "name": "FromScripts",
       "type": 1,
-      "textLength": 2636,
+      "textLength": 2406,
       "headerRow": 0,
       "entityIndexTbl": [],
       "entityDataList": []
