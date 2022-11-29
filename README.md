@@ -6,12 +6,12 @@ AssestBundleURL:https://www-cancer.enish-games.com/v{$version}/resource/list/{Io
 assestURL:https://assets.enish-games.com/assets-cancer/Resources/{ios or android}/{$name}<br>
 assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name}<br>
 <br>
-2022-11-17 10:30:59 : $version = "1_31_426"
+2022-11-28 10:31:38 : $version = "1_32_426"
 <br>
 <h2>各jsonの説明</h2>
 各jsonのkeyは適当にそれらしいものをつけただけです。実際の所は不明です。
 <h3>AssestBundle</h3>
-　nameがないもの：不明<br>
+　nameがないもの：ツールで変換に失敗したもの 実際にはファイルはあります<br>
 　sizeがないもの：CRID usm映像ファイル<br>
 　idが50からはじまるもの：ACB/AFS 音声ファイル assetsAFSurlの方　hcaの暗号化なし<br>
 　　末尾が0:acbファイル 1:awbファイル<br>
@@ -33,11 +33,18 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
   infoidは下のgachainfoと連動<br>
 <h3>gachainfo</h3>
 　ガチャ説明？<br>
+<h3>homecharatext</h3>
+　ホーム画面のセリフ一覧かと思ったけどどうやらちがうっぽい<br>
+　現在調査中<br>
+<h3>homework</h3>
+　宿題<br>
 <h3>item</h3>
 　アイテム一覧<br>
 　末尾が1が名前、2が説明<br>
 <h3>login</h3>
 　ログインボーナス<br>
+<h3>maintenance</h3>
+　メンテナンス時にapiから帰ってきたエラー文の一覧です<br>
 <h3>reward</h3>
 　プレゼント<br>
 <h3>shop</h3>
