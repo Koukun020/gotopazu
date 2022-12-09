@@ -30,7 +30,7 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 　idはイベントID<br>
 <h3>gacha</h3>
 　ガチャ一覧<br>
-  infoidは下のgachainfoと連動<br>
+  titleid,infoidは下のgachainfoと連動<br>
 <h3>gachainfo</h3>
 　ガチャ説明？<br>
 <h3>homecharatext</h3>
@@ -45,6 +45,9 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 　ログインボーナス<br>
 <h3>maintenance</h3>
 　メンテナンス時にapiから帰ってきたエラー文の一覧です<br>
+<h3>notifications</h3>
+　お知らせ<br>
+　intXはフラグ系だと思われる、現在調査中<br>
 <h3>reward</h3>
 　プレゼント<br>
 <h3>shop</h3>
