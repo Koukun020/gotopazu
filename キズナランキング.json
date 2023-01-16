@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "name": "キズナランキング(Season1)",
+        "seasonname": "Season1",
+        "assestid": 37170003,
+        "start": 1603724400,
+        "end": 1606748399,
+        "specialend": 1609340399
+    },
+    {
+        "id": 2,
+        "name": "キズナランキング(Season2)",
+        "seasonname": "Season2",
+        "assestid": 37170004,
+        "start": 1606748400,
+        "end": 1609340399,
+        "specialend": 1612018799
+    },
+    {
+        "id": 3,
+        "name": "キズナランキング(Season3)",
+        "seasonname": "Season3",
+        "assestid": 37170005,
+        "start": 1609340400,
+        "end": 1612018799,
+        "specialend": 1614610799
+    },
+    {
+        "id": 4,
+        "name": "キズナランキング(Season4)",
+        "seasonname": "Season4",
+        "assestid": 37170092,
+        "start": 1612018800,
+        "end": 1614610799,
+        "specialend": 1617116399
+    },
+    {
+        "id": 5,
+        "name": "キズナランキング(Season5)",
+        "seasonname": "Season5",
+        "assestid": 37170128,
+        "start": 1614610800,
+        "end": 1617116399,
+        "specialend": 1619794799
+    },
+    {
+        "id": 6,
+        "name": "キズナランキング(Season6)",
+        "seasonname": "Season6",
+        "assestid": 37170159,
+        "start": 1617116400,
+        "end": 1619794799,
+        "specialend": 1622426399
+    },
+    {
+        "id": 7,
+        "name": "キズナランキング(Season7)",
+        "seasonname": "Season7",
+        "assestid": 37170184,
+        "start": 1619794800,
+        "end": 1622426399,
+        "specialend": 1625151599
+    },
+    {
+        "id": 8,
+        "name": "キズナランキング(Season8)",
+        "seasonname": "Season8",
+        "assestid": 30160080,
+        "start": 1622426400,
+        "end": 1625151599,
+        "specialend": 1627657199
+    },
+    {
+        "id": 9,
+        "name": "キズナランキング(Season9)",
+        "seasonname": "Season9",
+        "assestid": 37160090,
+        "start": 1625151600,
+        "end": 1627657199,
+        "specialend": 1630335599
+    },
+    {
+        "id": 10,
+        "name": "キズナランキング(Season10)",
+        "seasonname": "Season10",
+        "assestid": 37160100,
+        "start": 1627657200,
+        "end": 1630335599,
+        "specialend": 1632927599
+    },
+    {
+        "id": 11,
+        "name": "キズナランキング(Season11)",
+        "seasonname": "Season11",
+        "assestid": 37160110,
+        "start": 1630335600,
+        "end": 1632927599,
+        "specialend": 1635605999
+    },
+    {
+        "id": 12,
+        "name": "キズナランキング(Season12)",
+        "seasonname": "Season12",
+        "assestid": 37160120,
+        "start": 1632927600,
+        "end": 1635605999,
+        "specialend": 1638197999
+    },
+    {
+        "id": 13,
+        "name": "キズナランキング(Season13)",
+        "seasonname": "Season13",
+        "assestid": 37160130,
+        "start": 1635606000,
+        "end": 1638197999,
+        "specialend": 1640876399
+    },
+    {
+        "id": 14,
+        "name": "キズナランキング(Season14)",
+        "seasonname": "Season14",
+        "assestid": 37160140,
+        "start": 1638198000,
+        "end": 1640876399,
+        "specialend": 1643554799
+    },
+    {
+        "id": 15,
+        "name": "キズナランキング(Season15)",
+        "seasonname": "Season15",
+        "assestid": 37160150,
+        "start": 1640876400,
+        "end": 1643554799,
+        "specialend": 1645973999
+    },
+    {
+        "id": 16,
+        "name": "キズナランキング(Season16)",
+        "seasonname": "Season16",
+        "assestid": 37160160,
+        "start": 1643554800,
+        "end": 1645973999,
+        "specialend": 1648652399
+    },
+    {
+        "id": 17,
+        "name": "キズナランキング(Season17)",
+        "seasonname": "Season17",
+        "assestid": 37160170,
+        "start": 1645974000,
+        "end": 1648652399,
+        "specialend": 1651244399
+    },
+    {
+        "id": 18,
+        "name": "キズナランキング(Season18)",
+        "seasonname": "Season18",
+        "assestid": 37160180,
+        "start": 1648652400,
+        "end": 1651244399,
+        "specialend": 1654009199
+    },
+    {
+        "id": 19,
+        "name": "キズナランキング(Season19)",
+        "seasonname": "Season19",
+        "assestid": 37160190,
+        "start": 1651244400,
+        "end": 1654009199,
+        "specialend": 1656514799
+    },
+    {
+        "id": 20,
+        "name": "キズナランキング(Season20)",
+        "seasonname": "Season20",
+        "assestid": 37160200,
+        "start": 1654009200,
+        "end": 1656514799,
+        "specialend": 1659193199
+    },
+    {
+        "id": 21,
+        "name": "キズナランキング(Season21)",
+        "seasonname": "Season21",
+        "assestid": 37160210,
+        "start": 1656514800,
+        "end": 1659193199,
+        "specialend": 1661871599
+    },
+    {
+        "id": 22,
+        "name": "キズナランキング(Season22)",
+        "seasonname": "Season22",
+        "assestid": 37160220,
+        "start": 1659193200,
+        "end": 1661871599,
+        "specialend": 1664463599
+    },
+    {
+        "id": 23,
+        "name": "キズナランキング(Season23)",
+        "seasonname": "Season23",
+        "assestid": 37160230,
+        "start": 1661871600,
+        "end": 1664463599,
+        "specialend": 1667314799
+    },
+    {
+        "id": 24,
+        "name": "キズナランキング(Season24)",
+        "seasonname": "Season24",
+        "assestid": 37160241,
+        "start": 1664463600,
+        "end": 1667314799,
+        "specialend": 1669733999
+    },
+    {
+        "id": 25,
+        "name": "キズナランキング(Season25)",
+        "seasonname": "Season25",
+        "assestid": 37160251,
+        "start": 1667314800,
+        "end": 1669733999,
+        "specialend": 1672585199
+    },
+    {
+        "id": 26,
+        "name": "キズナランキング(Season26)",
+        "seasonname": "Season26",
+        "assestid": 37160261,
+        "start": 1669734000,
+        "end": 1672585199,
+        "specialend": 1675090799
+    },
+    {
+        "id": 27,
+        "name": "キズナランキング(Season27)",
+        "seasonname": "Season27",
+        "assestid": 37160271,
+        "start": 1672585200,
+        "end": 1675090799,
+        "specialend": 1677509999
+    },
+    {
+        "id": 28,
+        "name": "キズナランキング(Season28)",
+        "seasonname": "Season28",
+        "assestid": 37160271,
+        "start": 1675090800,
+        "end": 1677509999,
+        "specialend": 1680188399
+    },
+    {
+        "id": 29,
+        "name": "キズナランキング(Season29)",
+        "seasonname": "Season29",
+        "assestid": 37100000,
+        "start": 1677510000,
+        "end": 1680188399,
+        "specialend": 1682780399
+    },
+    {
+        "id": 30,
+        "name": "キズナランキング(Season30)",
+        "seasonname": "Season30",
+        "assestid": 37100000,
+        "start": 1680188400,
+        "end": 1682780399,
+        "specialend": 1685458799
+    },
+    {
+        "id": 31,
+        "name": "キズナランキング(Season31)",
+        "seasonname": "Season31",
+        "assestid": 37100000,
+        "start": 1682780400,
+        "end": 1685458799,
+        "specialend": 1688050799
+    },
+    {
+        "id": 32,
+        "name": "キズナランキング(Season32)",
+        "seasonname": "Season32",
+        "assestid": 37100000,
+        "start": 1685458800,
+        "end": 1688050799,
+        "specialend": 1690729199
+    },
+    {
+        "id": 33,
+        "name": "キズナランキング(Season33)",
+        "seasonname": "Season33",
+        "assestid": 37100000,
+        "start": 1688050800,
+        "end": 1690729199,
+        "specialend": 4133948399
+    },
+    {
+        "id": 999997,
+        "name": "テスト2020年4月",
+        "seasonname": "testSeason",
+        "assestid": 37100000,
+        "start": 4125999600,
+        "end": 4133948399,
+        "specialend": 4136626799
+    },
+    {
+        "id": 999998,
+        "name": "テスト2020年4月",
+        "seasonname": "のキセキ99\/12",
+        "assestid": 37100000,
+        "start": 1585666800,
+        "end": 1588258799,
+        "specialend": 1603724399
+    },
+    {
+        "id": 999999,
+        "name": "テスト2020年5月-9月",
+        "seasonname": "のキセキ99\/12",
+        "assestid": 37100000,
+        "start": 1588258800,
+        "end": 1603724399,
+        "specialend": 1606748399
+    }
+]

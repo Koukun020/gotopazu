@@ -1,0 +1,1447 @@
+[
+    {
+        "id": 1021,
+        "charaid": 1,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だよ\n待ってるからね"
+    },
+    {
+        "id": 1022,
+        "charaid": 1,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だね\n寝ないようにしなきゃ…！"
+    },
+    {
+        "id": 1023,
+        "charaid": 1,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だよ\nふふっ…　待ち遠しいね？"
+    },
+    {
+        "id": 1024,
+        "charaid": 1,
+        "text": "えーと　待ち合わせの約束は…\nそっか　まだしてなかったね"
+    },
+    {
+        "id": 1025,
+        "charaid": 1
+    },
+    {
+        "id": 1031,
+        "charaid": 1,
+        "text": "おっはー　…って\nもしかして君も今来たとこ？\nそっか　そっか"
+    },
+    {
+        "id": 1032,
+        "charaid": 1,
+        "text": "あはは…　ちょっと\n寝坊しちゃったね…？"
+    },
+    {
+        "id": 1033,
+        "charaid": 1,
+        "text": "ごめんね　遅れちゃったよ\n撮影がおしちゃってさ～…"
+    },
+    {
+        "id": 1034,
+        "charaid": 1,
+        "text": "いやー　遅刻しちゃったね？\nまあ　お互い様ってことで…"
+    },
+    {
+        "id": 1035,
+        "charaid": 1,
+        "text": "えーっと…\n間に合わなかったみたいだね？\nごめん　ごめん"
+    },
+    {
+        "id": 1041,
+        "charaid": 1,
+        "text": "…それじゃあ\nこの後はどうしよっか？"
+    },
+    {
+        "id": 1111,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\n起きられるかなぁ…\nううん　なんでもない"
+    },
+    {
+        "id": 1112,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n了解　了解～！"
+    },
+    {
+        "id": 1113,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nうん　大丈夫\nちょうど仕事終わりくらいかな？"
+    },
+    {
+        "id": 1114,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nわかった　遅れちゃだめだよ～"
+    },
+    {
+        "id": 1115,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nそんな時間に待ち合わせて\n何するつもりかな～？"
+    },
+    {
+        "id": 1131,
+        "charaid": 1,
+        "text": "おっはー\n*Fname_kana*君"
+    },
+    {
+        "id": 1132,
+        "charaid": 1,
+        "text": "やっほー\n*Fname_kana*君"
+    },
+    {
+        "id": 1133,
+        "charaid": 1
+    },
+    {
+        "id": 1134,
+        "charaid": 1,
+        "text": "こんばんは\n*Fname_kana*君"
+    },
+    {
+        "id": 1135,
+        "charaid": 1
+    },
+    {
+        "id": 1141,
+        "charaid": 1,
+        "text": "来てくれてありがと\n…二人だけで会うのは\nちょっと恥ずかしいね？"
+    },
+    {
+        "id": 1142,
+        "charaid": 1,
+        "text": "もー　来てくれるのか\nちょっと不安だったんだよ\n言い訳　聞かせてもらおうかな"
+    },
+    {
+        "id": 1143,
+        "charaid": 1,
+        "text": "…でも　ちょーっと\n来るのが遅いんじゃない？\nさすがに待ちくたびれたよ～！"
+    },
+    {
+        "id": 1211,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nおっけー　じゃあおやすみ\n*Fname_kana*君"
+    },
+    {
+        "id": 1212,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nうん　わかった\nちゃんと起きててよ～？"
+    },
+    {
+        "id": 1213,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\n了解　ゆっくり休んでね"
+    },
+    {
+        "id": 1214,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nわかった　起こしてあげるからね"
+    },
+    {
+        "id": 1215,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nわ　そんな時間に起きるの？\n…無理しちゃだめだよ？"
+    },
+    {
+        "id": 1231,
+        "charaid": 1
+    },
+    {
+        "id": 1232,
+        "charaid": 1,
+        "text": "おはよう\n…って　もうお昼だけど"
+    },
+    {
+        "id": 1233,
+        "charaid": 1
+    },
+    {
+        "id": 1234,
+        "charaid": 1
+    },
+    {
+        "id": 1235,
+        "charaid": 1
+    },
+    {
+        "id": 1241,
+        "charaid": 1,
+        "text": "…わ　時間通りだ\nすごいね～　私には無理だよ"
+    },
+    {
+        "id": 1242,
+        "charaid": 1,
+        "text": "…ふふっ　*Fname_kana*君も\n意外とお寝坊さんだねぇ？"
+    },
+    {
+        "id": 1243,
+        "charaid": 1,
+        "text": "…*Fname_kana*君\nよく眠ってたね\n寝顔見てたら　私も\n眠くなってきちゃったよ～"
+    },
+    {
+        "id": 1311,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nうん　わかった\n体調には気を付けてね"
+    },
+    {
+        "id": 1312,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nはーい\nそれじゃあ時間までがんばろー！"
+    },
+    {
+        "id": 1313,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nおっけー　また後でね！"
+    },
+    {
+        "id": 1314,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n了解　もうひと頑張りだね！"
+    },
+    {
+        "id": 1315,
+        "charaid": 1,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\n遅くまでがんばるんだ…\n無理はしないでね"
+    },
+    {
+        "id": 1331,
+        "charaid": 1,
+        "text": "お疲れ様\nもしかして　徹夜明け…？"
+    },
+    {
+        "id": 1332,
+        "charaid": 1,
+        "text": "おつかれ～\n用事は終わったの？"
+    },
+    {
+        "id": 1333,
+        "charaid": 1,
+        "text": "お疲れ様\n今日もよく頑張ったね"
+    },
+    {
+        "id": 1334,
+        "charaid": 1
+    },
+    {
+        "id": 1335,
+        "charaid": 1
+    },
+    {
+        "id": 1341,
+        "charaid": 1,
+        "text": "…大丈夫だから\nゆっくり休んでいいんだよ"
+    },
+    {
+        "id": 1342,
+        "charaid": 1
+    },
+    {
+        "id": 1343,
+        "charaid": 1,
+        "text": "約束よりずいぶん遅いけど…\nもしかして無理してる？"
+    },
+    {
+        "id": 2021,
+        "charaid": 2,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃よ\n忘れないでよね"
+    },
+    {
+        "id": 2022,
+        "charaid": 2,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃ね\n遅れたら承知しないわよ"
+    },
+    {
+        "id": 2023,
+        "charaid": 2,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃よ\n待ってるわ"
+    },
+    {
+        "id": 2024,
+        "charaid": 2,
+        "text": "あれ？　待ち合わせの約束\nしてなかったっけ？"
+    },
+    {
+        "id": 2025,
+        "charaid": 2,
+        "text": "何時にするの？\nこっちはいつでもいいけど"
+    },
+    {
+        "id": 2031,
+        "charaid": 2,
+        "text": "おはよー…\nダメだわ　ねむー…"
+    },
+    {
+        "id": 2032,
+        "charaid": 2,
+        "text": "…な　なによ？　私だって\nたまには寝坊ぐらいするわよ…！"
+    },
+    {
+        "id": 2033,
+        "charaid": 2,
+        "text": "ごめん　遅れたー\n…って何？　あんたも今来たの？\n謝って損したわー…"
+    },
+    {
+        "id": 2034,
+        "charaid": 2,
+        "text": "お待たせ\n…何よ　そっちも遅れたんだし\nお互い様でしょ？"
+    },
+    {
+        "id": 2035,
+        "charaid": 2,
+        "text": "あれ　間に合わなかった？\n…悪かったわよ"
+    },
+    {
+        "id": 2041,
+        "charaid": 2,
+        "text": "…それで？\nこの後はどうするの？"
+    },
+    {
+        "id": 2111,
+        "charaid": 2,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nわかったわ　約束ね"
+    },
+    {
+        "id": 2112,
+        "charaid": 2,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ね\nええ　大丈夫よ"
+    },
+    {
+        "id": 2113,
+        "charaid": 2,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\n了解　ちゃんと来てよね？"
+    },
+    {
+        "id": 2114,
+        "charaid": 2,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nうん　じゃあ　また後でね"
+    },
+    {
+        "id": 2115,
+        "charaid": 2,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃か\nって　遅っ！？　…まぁいいわ\n"
+    },
+    {
+        "id": 2131,
+        "charaid": 2
+    },
+    {
+        "id": 2132,
+        "charaid": 2
+    },
+    {
+        "id": 2133,
+        "charaid": 2
+    },
+    {
+        "id": 2134,
+        "charaid": 2
+    },
+    {
+        "id": 2135,
+        "charaid": 2
+    },
+    {
+        "id": 2141,
+        "charaid": 2,
+        "text": "…ちゃんと来てくれて\nありがと\nで　これからどうするの？"
+    },
+    {
+        "id": 2142,
+        "charaid": 2,
+        "text": "…で？　言い訳は？\n遅刻とか\nマジありえないんですけど"
+    },
+    {
+        "id": 2143,
+        "charaid": 2,
+        "text": "…ってか　遅れるにしても\n限度があるでしょ！？\nもう来ないかと思ったじゃない"
+    },
+    {
+        "id": 2211,
+        "charaid": 2,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ね\nしょうがないから　起こしてあげる\n…ちゃんと起きてよ？"
+    },
+    {
+        "id": 2212,
+        "charaid": 2,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\n了解　寝過ごすんじゃないわよ"
+    },
+    {
+        "id": 2213,
+        "charaid": 2,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の"
+    },
+    {
+        "id": 2214,
+        "charaid": 2,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\n了解よ　ゆっくり休みなさい"
+    },
+    {
+        "id": 2215,
+        "charaid": 2,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃ね\n昼夜逆転してるし…\nまぁいいけ"
+    },
+    {
+        "id": 2231,
+        "charaid": 2
+    },
+    {
+        "id": 2232,
+        "charaid": 2
+    },
+    {
+        "id": 2233,
+        "charaid": 2
+    },
+    {
+        "id": 2234,
+        "charaid": 2,
+        "text": "少しは休めた？\n無理しないのよ"
+    },
+    {
+        "id": 2235,
+        "charaid": 2,
+        "text": "こんな時間に起きて…\n大丈夫なの？"
+    },
+    {
+        "id": 2241,
+        "charaid": 2,
+        "text": "…時間通りか\n結構ちゃんとしてるんだ"
+    },
+    {
+        "id": 2242,
+        "charaid": 2,
+        "text": "…よく寝てたわね\n薬でも盛られたのかしら～？"
+    },
+    {
+        "id": 2243,
+        "charaid": 2,
+        "text": "…まったく　全然起きないから\n心配しちゃったじゃないの…"
+    },
+    {
+        "id": 2311,
+        "charaid": 2,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃…\nって　その時間に？\n…大変なの"
+    },
+    {
+        "id": 2312,
+        "charaid": 2,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ね\nはいはい　じゃあまた後で"
+    },
+    {
+        "id": 2313,
+        "charaid": 2,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃か\n了解よ　それじゃあ\n時間まで頑"
+    },
+    {
+        "id": 2314,
+        "charaid": 2,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃ね\nわかった\n体調にだけは気をつけ"
+    },
+    {
+        "id": 2315,
+        "charaid": 2,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃か\n遅くまでよくやるわね…\n少しは"
+    },
+    {
+        "id": 2331,
+        "charaid": 2,
+        "text": "お疲れ　…え？\nもしかして寝てないの…？"
+    },
+    {
+        "id": 2332,
+        "charaid": 2
+    },
+    {
+        "id": 2333,
+        "charaid": 2
+    },
+    {
+        "id": 2334,
+        "charaid": 2
+    },
+    {
+        "id": 2335,
+        "charaid": 2,
+        "text": "こんな時間まで…\n無理しすぎよ"
+    },
+    {
+        "id": 2341,
+        "charaid": 2,
+        "text": "…でも時間通りか\nなら　もう休めるのよね？"
+    },
+    {
+        "id": 2342,
+        "charaid": 2,
+        "text": "…意外と時間\nかかったみたいだけど大丈夫？"
+    },
+    {
+        "id": 2343,
+        "charaid": 2,
+        "text": "…ずいぶん遅かったじゃない\n早く休みなさいよ…？"
+    },
+    {
+        "id": 3021,
+        "charaid": 3,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だよ\n待ってるから"
+    },
+    {
+        "id": 3022,
+        "charaid": 3,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だよ\nよろしくね"
+    },
+    {
+        "id": 3023,
+        "charaid": 3,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だね\n待ち遠しいな"
+    },
+    {
+        "id": 3024,
+        "charaid": 3,
+        "text": "待ち合わせ…\nまだ　約束してなかった"
+    },
+    {
+        "id": 3025,
+        "charaid": 3
+    },
+    {
+        "id": 3031,
+        "charaid": 3,
+        "text": "おはよう　*Fname_kana*\n寝坊　しちゃったね…"
+    },
+    {
+        "id": 3032,
+        "charaid": 3
+    },
+    {
+        "id": 3033,
+        "charaid": 3,
+        "text": "遅れてごめんね\n白装束は　着てないけど…"
+    },
+    {
+        "id": 3034,
+        "charaid": 3,
+        "text": "あの伊達政宗もね　よく遅刻\nしてたらしいの！　だから\nその…　遅れてごめんね？"
+    },
+    {
+        "id": 3035,
+        "charaid": 3,
+        "text": "…そっちも　今来たとこなの？\nそっか　よかった…"
+    },
+    {
+        "id": 3041,
+        "charaid": 3,
+        "text": "…えっと\nこの後はどうしよっか？"
+    },
+    {
+        "id": 3111,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nわかった　待ってるから"
+    },
+    {
+        "id": 3112,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\n了解　遅れちゃだめだよ"
+    },
+    {
+        "id": 3113,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃？\nうん　楽しみだね"
+    },
+    {
+        "id": 3114,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nふふっ　早く夜にならないかな"
+    },
+    {
+        "id": 3115,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃…\n…ええっ　そ　そんな時間に\n二人っきりで…！？"
+    },
+    {
+        "id": 3131,
+        "charaid": 3
+    },
+    {
+        "id": 3132,
+        "charaid": 3,
+        "text": "待ってたよ　*Fname_kana*"
+    },
+    {
+        "id": 3133,
+        "charaid": 3,
+        "text": "お疲れさま　*Fname_kana*"
+    },
+    {
+        "id": 3134,
+        "charaid": 3
+    },
+    {
+        "id": 3135,
+        "charaid": 3,
+        "text": "来てくれたんだ　*Fname_kana*"
+    },
+    {
+        "id": 3141,
+        "charaid": 3,
+        "text": "ふふっ…　時間通りだね\n…このあとはどうするの？"
+    },
+    {
+        "id": 3142,
+        "charaid": 3,
+        "text": "…よかった\n来てくれないのかと思った"
+    },
+    {
+        "id": 3143,
+        "charaid": 3,
+        "text": "…でも　遅刻は有罪　切腹\n待たせすぎだと思う"
+    },
+    {
+        "id": 3211,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n寝坊しちゃだめだよ　おやすみ"
+    },
+    {
+        "id": 3212,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n*Fname_kana*　意外と朝は弱いの？"
+    },
+    {
+        "id": 3213,
+        "charaid": 3,
+        "text1": "YNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_h"
+    },
+    {
+        "id": 3214,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n起こしてあげる\nだからゆっくり休んで"
+    },
+    {
+        "id": 3215,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃…\nえっ　そんな時間に？\n…わかった　でも無理は禁止ね"
+    },
+    {
+        "id": 3231,
+        "charaid": 3,
+        "text": "おはよう　*Fname_kana*"
+    },
+    {
+        "id": 3232,
+        "charaid": 3,
+        "text": "起きたんだ　*Fname_kana*"
+    },
+    {
+        "id": 3233,
+        "charaid": 3
+    },
+    {
+        "id": 3234,
+        "charaid": 3
+    },
+    {
+        "id": 3235,
+        "charaid": 3
+    },
+    {
+        "id": 3241,
+        "charaid": 3,
+        "text": "…約束した時間どおり\n*Fname_kana*　えらい"
+    },
+    {
+        "id": 3242,
+        "charaid": 3
+    },
+    {
+        "id": 3243,
+        "charaid": 3,
+        "text": "ぐっすり眠ってたね\n疲れはとれた？"
+    },
+    {
+        "id": 3311,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃？\n…了解　体調には気を付けて"
+    },
+    {
+        "id": 3312,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n…大丈夫？　無理してない？"
+    },
+    {
+        "id": 3313,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃か\nうん　じゃあ　また後でね"
+    },
+    {
+        "id": 3314,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nわかった　がんばって　*Fname_kana*"
+    },
+    {
+        "id": 3315,
+        "charaid": 3,
+        "text": "*DYNAMIC_appointment_time*時間後…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃？\n…がんばるね　でも無理はしちゃだめだよ"
+    },
+    {
+        "id": 3331,
+        "charaid": 3,
+        "text": "お疲れ　*Fname_kana*\nやっと休めるね"
+    },
+    {
+        "id": 3332,
+        "charaid": 3,
+        "text": "お疲れさま\nそろそろ休めそう？"
+    },
+    {
+        "id": 3333,
+        "charaid": 3
+    },
+    {
+        "id": 3334,
+        "charaid": 3,
+        "text": "今日もお疲れ様　*Fname_kana*"
+    },
+    {
+        "id": 3335,
+        "charaid": 3,
+        "text": "夜中までご苦労様　*Fname_kana*"
+    },
+    {
+        "id": 3341,
+        "charaid": 3
+    },
+    {
+        "id": 3342,
+        "charaid": 3
+    },
+    {
+        "id": 3343,
+        "charaid": 3,
+        "text": "…ずいぶん時間\nかかったみたいだけど\n無理はだめだよ？"
+    },
+    {
+        "id": 4021,
+        "charaid": 4,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃ですね！\n待ってまーす！"
+    },
+    {
+        "id": 4022,
+        "charaid": 4,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃です！\nはい！　楽しみですね！"
+    },
+    {
+        "id": 4023,
+        "charaid": 4,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃ですね！\nえへへ…　待ちきれないです"
+    },
+    {
+        "id": 4024,
+        "charaid": 4
+    },
+    {
+        "id": 4025,
+        "charaid": 4
+    },
+    {
+        "id": 4031,
+        "charaid": 4,
+        "text": "おはよーございまーす！\n…ええと　すいません\n遅くなりました…"
+    },
+    {
+        "id": 4032,
+        "charaid": 4,
+        "text": "あはは…\n寝坊しちゃいましたー…"
+    },
+    {
+        "id": 4033,
+        "charaid": 4,
+        "text": "遅れてごめんなさーい　…って\nあれ？　な～んだ　遅れてくる\nなら言ってくださいよ～"
+    },
+    {
+        "id": 4034,
+        "charaid": 4,
+        "text": "すいません！\nちょっと助っ人を\n頼まれてしまって…"
+    },
+    {
+        "id": 4035,
+        "charaid": 4,
+        "text": "いや～　遅刻しちゃいましたね\nここはひとつ\nお互い様ということで！"
+    },
+    {
+        "id": 4041,
+        "charaid": 4,
+        "text": "それじゃあ\nこの後はどうしましょう？"
+    },
+    {
+        "id": 4111,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の"
+    },
+    {
+        "id": 4112,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の"
+    },
+    {
+        "id": 4113,
+        "charaid": 4,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\n遅れちゃだめですよー！"
+    },
+    {
+        "id": 4114,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃ですね！\nはい　大丈夫です！\n待っ"
+    },
+    {
+        "id": 4115,
+        "charaid": 4,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃…\n…その時間に　二人っきりっていうのは…\nえっと…"
+    },
+    {
+        "id": 4131,
+        "charaid": 4
+    },
+    {
+        "id": 4132,
+        "charaid": 4
+    },
+    {
+        "id": 4133,
+        "charaid": 4
+    },
+    {
+        "id": 4134,
+        "charaid": 4
+    },
+    {
+        "id": 4135,
+        "charaid": 4
+    },
+    {
+        "id": 4141,
+        "charaid": 4,
+        "text": "さすが　*Lname_kanji*さん\n約束の時間ぴったりですね！"
+    },
+    {
+        "id": 4142,
+        "charaid": 4
+    },
+    {
+        "id": 4143,
+        "charaid": 4,
+        "text": "…でも　待たせすぎですよ！\nもしかしたら\n来てくれないのかと思いました"
+    },
+    {
+        "id": 4211,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の"
+    },
+    {
+        "id": 4212,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃ですね\n了解です！\nちゃんと起きて"
+    },
+    {
+        "id": 4213,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃ですね\nわかりました！\nゆっくり休"
+    },
+    {
+        "id": 4214,
+        "charaid": 4,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですか…\nはい　ちゃんと起こしますから\n今は休んでください"
+    },
+    {
+        "id": 4215,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃…\nえーっと…　わかりました\nでも"
+    },
+    {
+        "id": 4231,
+        "charaid": 4
+    },
+    {
+        "id": 4232,
+        "charaid": 4
+    },
+    {
+        "id": 4233,
+        "charaid": 4
+    },
+    {
+        "id": 4234,
+        "charaid": 4,
+        "text": "起きましたね\nよく休めました？"
+    },
+    {
+        "id": 4235,
+        "charaid": 4,
+        "text": "こんな時間ですが\nおはようございます"
+    },
+    {
+        "id": 4241,
+        "charaid": 4,
+        "text": "…時間通りです\nさすがですね～\n*Lname_kanji*さん"
+    },
+    {
+        "id": 4242,
+        "charaid": 4,
+        "text": "…寝坊ですよ\n*Lname_kanji*さん？"
+    },
+    {
+        "id": 4243,
+        "charaid": 4,
+        "text": "…全然起きないから\nちょっと心配しちゃいました\n無理しちゃダメですよ"
+    },
+    {
+        "id": 4311,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃ですね\n…わかりました\nでも　体調"
+    },
+    {
+        "id": 4312,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の",
+        "text2": "YNAMIC_time_hh:mm*頃ですね\n…大丈夫ですか？\n無理　し"
+    },
+    {
+        "id": 4313,
+        "charaid": 4,
+        "text1": "YNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の"
+    },
+    {
+        "id": 4314,
+        "charaid": 4,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\nはい！　では　もうちょっとだけ\nがんばりましょー！"
+    },
+    {
+        "id": 4315,
+        "charaid": 4,
+        "text": "*DYNAMIC_appointment_time*時間後ってことは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃…\nそんなに遅くまで…　困ってることが\nあったら相談してくださいね？"
+    },
+    {
+        "id": 4331,
+        "charaid": 4,
+        "text": "お疲れ様です\nようやく休めますね？"
+    },
+    {
+        "id": 4332,
+        "charaid": 4
+    },
+    {
+        "id": 4333,
+        "charaid": 4,
+        "text": "お疲れ様です！\n用事は終わりましたか？"
+    },
+    {
+        "id": 4334,
+        "charaid": 4,
+        "text": "今日も一日\nお疲れ様でしたー！"
+    },
+    {
+        "id": 4335,
+        "charaid": 4,
+        "text": "こんな深夜まで…\nお疲れ様です"
+    },
+    {
+        "id": 4341,
+        "charaid": 4,
+        "text": "…予定通りに休めるようで\n何よりです\n*Lname_kanji*さん"
+    },
+    {
+        "id": 4342,
+        "charaid": 4,
+        "text": "…でも　遅かったですね\n無理してませんか…？"
+    },
+    {
+        "id": 4343,
+        "charaid": 4,
+        "text": "…予定より\nずいぶん遅かったですけど\n無理しちゃダメですよ？"
+    },
+    {
+        "id": 5021,
+        "charaid": 5,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃ですね\nお待ちしてます"
+    },
+    {
+        "id": 5022,
+        "charaid": 5,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃です\n忘れないでくださいね"
+    },
+    {
+        "id": 5023,
+        "charaid": 5,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃です\nよろしくお願いしますね"
+    },
+    {
+        "id": 5024,
+        "charaid": 5,
+        "text": "そういえば　約束してませんでしたね\n待ち合わせはどうしましょう？"
+    },
+    {
+        "id": 5025,
+        "charaid": 5
+    },
+    {
+        "id": 5031,
+        "charaid": 5,
+        "text": "おはようございます～…\nすみません　寝坊してしまって\n朝食も食べてなくて～…"
+    },
+    {
+        "id": 5032,
+        "charaid": 5,
+        "text": "…ええと　その　お互い\n寝坊してしまいましたね…？"
+    },
+    {
+        "id": 5033,
+        "charaid": 5,
+        "text": "ごめんなさい\n昼食に夢中になっていたら\nこんな時間に…！"
+    },
+    {
+        "id": 5034,
+        "charaid": 5,
+        "text": "すみません　遅れて　…あれ？\nもしかして　あなたも今来たの\nですか？　なんだ　そうでしたか…"
+    },
+    {
+        "id": 5035,
+        "charaid": 5,
+        "text": "…こんばんは～　その\nすいません…　前の用事が\nなかなか終わらなくて…"
+    },
+    {
+        "id": 5041,
+        "charaid": 5,
+        "text": "…それで\nこの後はどうしましょうか？"
+    },
+    {
+        "id": 5111,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですか\nわかりました　では\nその時間ということで"
+    },
+    {
+        "id": 5112,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\n…ええと　お昼ご飯はどうしますか？"
+    },
+    {
+        "id": 5113,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですか\nでは　夕食はご一緒しましょうか！"
+    },
+    {
+        "id": 5114,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\nはい　大丈夫ですよ\nお待ちしています"
+    },
+    {
+        "id": 5115,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃…\nその時間に　二人でというのは流石に…\nい　いえ　何でもありません！"
+    },
+    {
+        "id": 5131,
+        "charaid": 5
+    },
+    {
+        "id": 5132,
+        "charaid": 5,
+        "text": "こんにちは\n*Lname_kanji*君"
+    },
+    {
+        "id": 5133,
+        "charaid": 5
+    },
+    {
+        "id": 5134,
+        "charaid": 5,
+        "text": "こんばんは\n*Lname_kanji*君"
+    },
+    {
+        "id": 5135,
+        "charaid": 5,
+        "text": "遅くにすみません\n*Lname_kanji*君"
+    },
+    {
+        "id": 5141,
+        "charaid": 5,
+        "text": "来てくれて\nありがとうございます　…さて\nこの後はどうしましょうか？"
+    },
+    {
+        "id": 5142,
+        "charaid": 5,
+        "text": "…では　遅刻のお詫びに何か\nおごってください　待ちくたび\nれて　お腹がすきましたから"
+    },
+    {
+        "id": 5143,
+        "charaid": 5,
+        "text": "さて　何故ここまで遅れたのか\n納得できるよう\n説明してもらえますか？"
+    },
+    {
+        "id": 5211,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですか\n仕方ありませんね\n起こしてあげましょう"
+    },
+    {
+        "id": 5212,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\nわかりました\nちゃんと起きてくださいよ？"
+    },
+    {
+        "id": 5213,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですか\n了解です　しっかりと休んでください"
+    },
+    {
+        "id": 5214,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\n…今はゆっくり休んでください\n時間通りに起こしますから"
+    },
+    {
+        "id": 5215,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃…\nおすすめはしませんが…\nともかく無理は禁物ですからね"
+    },
+    {
+        "id": 5231,
+        "charaid": 5
+    },
+    {
+        "id": 5232,
+        "charaid": 5,
+        "text": "起きましたか\n*Lname_kanji*君"
+    },
+    {
+        "id": 5233,
+        "charaid": 5,
+        "text": "ゆっくり休めましたか？\n*Lname_kanji*君"
+    },
+    {
+        "id": 5234,
+        "charaid": 5,
+        "text": "おはよう…　いえ　こんばんは\n*Lname_kanji*君"
+    },
+    {
+        "id": 5235,
+        "charaid": 5,
+        "text": "やはり無理をしていませんか？\n大丈夫とおっしゃるなら\n信じますが…"
+    },
+    {
+        "id": 5241,
+        "charaid": 5,
+        "text": "…時間通りですね\nもう少し休んでいても\nいいのですよ？"
+    },
+    {
+        "id": 5242,
+        "charaid": 5,
+        "text": "…予定より遅い起床ですけど\nいいんじゃないですか？\nたまには"
+    },
+    {
+        "id": 5243,
+        "charaid": 5,
+        "text": "…よく眠っていたようですね\nちゃんと疲れはとれました？"
+    },
+    {
+        "id": 5311,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\n…体調には気を付けてください\n約束ですよ？"
+    },
+    {
+        "id": 5312,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\n…無理　してませんか？\nちゃんと休んでくださいね"
+    },
+    {
+        "id": 5313,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\nはい　では　また後ほど"
+    },
+    {
+        "id": 5314,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\nわかりました\nでは時間まで頑張りましょう"
+    },
+    {
+        "id": 5315,
+        "charaid": 5,
+        "text": "*DYNAMIC_appointment_time*時間後ということは…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃ですね\nそんな時間まで…　無理はしないでください\n勉強　教えてもらわないと困りますから"
+    },
+    {
+        "id": 5331,
+        "charaid": 5,
+        "text": "お疲れ様です\nやはり　寝ていないのですね…"
+    },
+    {
+        "id": 5332,
+        "charaid": 5
+    },
+    {
+        "id": 5333,
+        "charaid": 5,
+        "text": "お疲れ様です\n*Lname_kanji*君"
+    },
+    {
+        "id": 5334,
+        "charaid": 5
+    },
+    {
+        "id": 5335,
+        "charaid": 5,
+        "text": "こんなに遅くまで…\nお疲れ様でした\n*Lname_kanji*君"
+    },
+    {
+        "id": 5341,
+        "charaid": 5,
+        "text": "…予定通りですね\nさあ　早く休みましょう"
+    },
+    {
+        "id": 5342,
+        "charaid": 5,
+        "text": "…予定よりもかかりましたね\n無理はしていませんか？"
+    },
+    {
+        "id": 5343,
+        "charaid": 5,
+        "text": "ずいぶん時間がかかりましたね\n無理もほどほどにしてください\n心配です"
+    },
+    {
+        "id": 9021,
+        "charaid": 9,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だよ\n待ってるからね　お兄ちゃん！"
+    },
+    {
+        "id": 9022,
+        "charaid": 9,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だね\n遅れちゃダメだよ！"
+    },
+    {
+        "id": 9023,
+        "charaid": 9,
+        "text": "約束は　*DYNAMIC_day*の\n*DYNAMIC_time_hh:mm*頃だよ\n忘れないでね　お兄ちゃん！"
+    },
+    {
+        "id": 9024,
+        "charaid": 9,
+        "text": "あれ？　待ち合わせの約束\nしてなかったんだっけ？"
+    },
+    {
+        "id": 9025,
+        "charaid": 9
+    },
+    {
+        "id": 9031,
+        "charaid": 9,
+        "text": "ごめんなさい\n寝坊しちゃった…"
+    },
+    {
+        "id": 9032,
+        "charaid": 9,
+        "text": "えーっと…　二人して\n寝坊しちゃったね　お兄ちゃん"
+    },
+    {
+        "id": 9033,
+        "charaid": 9,
+        "text": "遅くなっちゃったよー…\nごめんね　お兄ちゃん"
+    },
+    {
+        "id": 9034,
+        "charaid": 9,
+        "text": "ごめん　お兄ちゃん！\n…え？　お兄ちゃんも今来たとこなの？\nなーんだ　謝って損した"
+    },
+    {
+        "id": 9035,
+        "charaid": 9,
+        "text": "ふわ～ぁ…　ううん…\nさすがに　ちょっと眠いよ\nお兄ちゃん…"
+    },
+    {
+        "id": 9041,
+        "charaid": 9
+    },
+    {
+        "id": 9111,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n…お兄ちゃん　ちゃんと起きてよ？"
+    },
+    {
+        "id": 9112,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nうん　わかった！　待ってるね"
+    },
+    {
+        "id": 9113,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nお夕飯　何にしようかな～"
+    },
+    {
+        "id": 9114,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nわかった　約束だよ　お兄ちゃん！"
+    },
+    {
+        "id": 9115,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃かぁ\nうーん…　起きてられるかなぁ…？"
+    },
+    {
+        "id": 9131,
+        "charaid": 9
+    },
+    {
+        "id": 9132,
+        "charaid": 9
+    },
+    {
+        "id": 9133,
+        "charaid": 9
+    },
+    {
+        "id": 9134,
+        "charaid": 9
+    },
+    {
+        "id": 9135,
+        "charaid": 9
+    },
+    {
+        "id": 9141,
+        "charaid": 9,
+        "text": "来てくれてありがと！\nそれじゃ　何して遊ぶ？"
+    },
+    {
+        "id": 9142,
+        "charaid": 9,
+        "text": "…あんまり遅いから\n来ないかと思ったよ\nまったくも～"
+    },
+    {
+        "id": 9143,
+        "charaid": 9,
+        "text": "…ところで\n来るの遅すぎだよ！\n待ちくたびれたー！"
+    },
+    {
+        "id": 9211,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n…お兄ちゃん　ちゃんと起きてよ？"
+    },
+    {
+        "id": 9212,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nうん　わかった！　待ってるね"
+    },
+    {
+        "id": 9213,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nお夕飯　何にしようかな～"
+    },
+    {
+        "id": 9214,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nわかった　約束だよ　お兄ちゃん！"
+    },
+    {
+        "id": 9215,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃かぁ\nうーん…　起きてられるかなぁ…？"
+    },
+    {
+        "id": 9231,
+        "charaid": 9
+    },
+    {
+        "id": 9232,
+        "charaid": 9
+    },
+    {
+        "id": 9233,
+        "charaid": 9
+    },
+    {
+        "id": 9234,
+        "charaid": 9
+    },
+    {
+        "id": 9235,
+        "charaid": 9
+    },
+    {
+        "id": 9241,
+        "charaid": 9,
+        "text": "来てくれてありがと！\nそれじゃ　何して遊ぶ？"
+    },
+    {
+        "id": 9242,
+        "charaid": 9,
+        "text": "…あんまり遅いから\n来ないかと思ったよ\nまったくも～"
+    },
+    {
+        "id": 9243,
+        "charaid": 9,
+        "text": "…ところで\n来るの遅すぎだよ！\n待ちくたびれたー！"
+    },
+    {
+        "id": 9311,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\n…お兄ちゃん　ちゃんと起きてよ？"
+    },
+    {
+        "id": 9312,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nうん　わかった！　待ってるね"
+    },
+    {
+        "id": 9313,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nお夕飯　何にしようかな～"
+    },
+    {
+        "id": 9314,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃だね\nわかった　約束だよ　お兄ちゃん！"
+    },
+    {
+        "id": 9315,
+        "charaid": 9,
+        "text": "*DYNAMIC_appointment_time*時間後だと…\n*DYNAMIC_day*の*DYNAMIC_time_hh:mm*頃かぁ\nうーん…　起きてられるかなぁ…？"
+    },
+    {
+        "id": 9331,
+        "charaid": 9
+    },
+    {
+        "id": 9332,
+        "charaid": 9
+    },
+    {
+        "id": 9333,
+        "charaid": 9
+    },
+    {
+        "id": 9334,
+        "charaid": 9
+    },
+    {
+        "id": 9335,
+        "charaid": 9
+    },
+    {
+        "id": 9341,
+        "charaid": 9,
+        "text": "来てくれてありがと！\nそれじゃ　何して遊ぶ？"
+    },
+    {
+        "id": 9342,
+        "charaid": 9,
+        "text": "…あんまり遅いから\n来ないかと思ったよ\nまったくも～"
+    },
+    {
+        "id": 9343,
+        "charaid": 9,
+        "text": "…ところで\n来るの遅すぎだよ！\n待ちくたびれたー！"
+    }
+]
