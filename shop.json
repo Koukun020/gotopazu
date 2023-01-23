@@ -25,7 +25,6 @@
     {
         "id": 5,
         "storeid": "cancer300002",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -304,7 +303,6 @@
     {
         "id": 52,
         "storeid": "cancer300020",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -710,7 +708,6 @@
     {
         "id": 131,
         "storeid": "cancer400001",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -730,7 +727,6 @@
     {
         "id": 133,
         "storeid": "cancer400003",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -740,7 +736,6 @@
     {
         "id": 134,
         "storeid": "cancer400004",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -750,7 +745,6 @@
     {
         "id": 135,
         "storeid": "cancer400005",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -760,7 +754,6 @@
     {
         "id": 136,
         "storeid": "cancer400006",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -770,7 +763,6 @@
     {
         "id": 137,
         "storeid": "cancer400007",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -780,7 +772,6 @@
     {
         "id": 138,
         "storeid": "cancer400008",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -790,7 +781,6 @@
     {
         "id": 139,
         "storeid": "cancer400009",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1663,7 +1653,6 @@
     {
         "id": 309,
         "storeid": "cancer400017",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1673,7 +1662,6 @@
     {
         "id": 310,
         "storeid": "cancer400018",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1683,7 +1671,6 @@
     {
         "id": 313,
         "storeid": "cancer400019",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1693,7 +1680,6 @@
     {
         "id": 314,
         "storeid": "cancer400020",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1703,7 +1689,6 @@
     {
         "id": 317,
         "storeid": "cancer400021",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1713,7 +1698,6 @@
     {
         "id": 318,
         "storeid": "cancer400022",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1917,7 +1901,6 @@
     {
         "id": 357,
         "storeid": "cancer400027",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1927,7 +1910,6 @@
     {
         "id": 358,
         "storeid": "cancer400028",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1947,7 +1929,6 @@
     {
         "id": 363,
         "storeid": "cancer400030",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1957,7 +1938,6 @@
     {
         "id": 364,
         "storeid": "cancer400031",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1967,7 +1947,6 @@
     {
         "id": 367,
         "storeid": "cancer400032",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1977,7 +1956,6 @@
     {
         "id": 368,
         "storeid": "cancer400033",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1987,7 +1965,6 @@
     {
         "id": 369,
         "storeid": "cancer400034",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -1997,7 +1974,6 @@
     {
         "id": 370,
         "storeid": "cancer400035",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2007,7 +1983,6 @@
     {
         "id": 371,
         "storeid": "cancer400036",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2017,7 +1992,6 @@
     {
         "id": 372,
         "storeid": "cancer400037",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2027,7 +2001,6 @@
     {
         "id": 373,
         "storeid": "cancer400038",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2037,7 +2010,6 @@
     {
         "id": 374,
         "storeid": "cancer400039",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2047,7 +2019,6 @@
     {
         "id": 375,
         "storeid": "cancer400040",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2057,7 +2028,6 @@
     {
         "id": 376,
         "storeid": "cancer400041",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2067,7 +2037,6 @@
     {
         "id": 377,
         "storeid": "cancer400042",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2077,7 +2046,6 @@
     {
         "id": 378,
         "storeid": "cancer400043",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2087,7 +2055,6 @@
     {
         "id": 379,
         "storeid": "cancer400044",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2097,7 +2064,6 @@
     {
         "id": 380,
         "storeid": "cancer400045",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2184,7 +2150,6 @@
     {
         "id": 409,
         "storeid": "cancer400046",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2194,7 +2159,6 @@
     {
         "id": 410,
         "storeid": "cancer400047",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2204,7 +2168,6 @@
     {
         "id": 411,
         "storeid": "cancer400048",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2214,7 +2177,6 @@
     {
         "id": 412,
         "storeid": "cancer400049",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2224,7 +2186,6 @@
     {
         "id": 417,
         "storeid": "cancer400050",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2234,7 +2195,6 @@
     {
         "id": 418,
         "storeid": "cancer400051",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2244,7 +2204,6 @@
     {
         "id": 419,
         "storeid": "cancer400052",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2254,7 +2213,6 @@
     {
         "id": 420,
         "storeid": "cancer400053",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2411,7 +2369,6 @@
     {
         "id": 453,
         "storeid": "cancer400061",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2421,7 +2378,6 @@
     {
         "id": 454,
         "storeid": "cancer400062",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2451,7 +2407,6 @@
     {
         "id": 461,
         "storeid": "cancer400065",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2461,7 +2416,6 @@
     {
         "id": 462,
         "storeid": "cancer400066",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2471,7 +2425,6 @@
     {
         "id": 463,
         "storeid": "cancer400067",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2558,8 +2511,6 @@
     {
         "id": 481,
         "storeid": "cancer400068",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2569,8 +2520,6 @@
     {
         "id": 482,
         "storeid": "cancer400069",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2580,8 +2529,6 @@
     {
         "id": 485,
         "storeid": "cancer400070",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2591,8 +2538,6 @@
     {
         "id": 486,
         "storeid": "cancer400071",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2602,8 +2547,6 @@
     {
         "id": 487,
         "storeid": "cancer400072",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2613,8 +2556,6 @@
     {
         "id": 488,
         "storeid": "cancer400073",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2624,8 +2565,6 @@
     {
         "id": 489,
         "storeid": "cancer400074",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2635,8 +2574,6 @@
     {
         "id": 490,
         "storeid": "cancer400075",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2646,8 +2583,6 @@
     {
         "id": 491,
         "storeid": "cancer400076",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2657,8 +2592,6 @@
     {
         "id": 492,
         "storeid": "cancer400077",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2668,8 +2601,6 @@
     {
         "id": 493,
         "storeid": "cancer400078",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2679,8 +2610,6 @@
     {
         "id": 494,
         "storeid": "cancer400079",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2690,8 +2619,6 @@
     {
         "id": 495,
         "storeid": "cancer400080",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2701,8 +2628,6 @@
     {
         "id": 496,
         "storeid": "cancer400081",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2712,8 +2637,6 @@
     {
         "id": 497,
         "storeid": "cancer400082",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2723,8 +2646,6 @@
     {
         "id": 498,
         "storeid": "cancer400083",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2734,8 +2655,6 @@
     {
         "id": 499,
         "storeid": "cancer400084",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2745,8 +2664,6 @@
     {
         "id": 500,
         "storeid": "cancer400085",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2756,8 +2673,6 @@
     {
         "id": 501,
         "storeid": "cancer400086",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2767,8 +2682,6 @@
     {
         "id": 502,
         "storeid": "cancer400087",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2778,8 +2691,6 @@
     {
         "id": 503,
         "storeid": "cancer400088",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2789,8 +2700,6 @@
     {
         "id": 504,
         "storeid": "cancer400089",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2877,7 +2786,6 @@
     {
         "id": 539,
         "storeid": "cancer400090",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2887,7 +2795,6 @@
     {
         "id": 540,
         "storeid": "cancer400091",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2959,8 +2866,6 @@
     {
         "id": 555,
         "storeid": "cancer400096",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -2970,8 +2875,6 @@
     {
         "id": 556,
         "storeid": "cancer400097",
-        "name": "",
-        "doublename": 6786566.560761,
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3031,7 +2934,6 @@
     {
         "id": 569,
         "storeid": "cancer400103",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3041,7 +2943,6 @@
     {
         "id": 570,
         "storeid": "cancer400104",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3051,7 +2952,6 @@
     {
         "id": 571,
         "storeid": "cancer400105",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3138,7 +3038,6 @@
     {
         "id": 589,
         "storeid": "cancer400106",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3148,7 +3047,6 @@
     {
         "id": 590,
         "storeid": "cancer400107",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3332,7 +3230,6 @@
     {
         "id": 625,
         "storeid": "cancer400110",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3342,7 +3239,6 @@
     {
         "id": 626,
         "storeid": "cancer400111",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3868,7 +3764,6 @@
     {
         "id": 725,
         "storeid": "cancer400131",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3878,7 +3773,6 @@
     {
         "id": 726,
         "storeid": "cancer400132",
-        "name": "",
         "type": "consumable",
         "type2": "normal",
         "receive": "direct",
@@ -3954,6 +3848,83 @@
     {
         "id": 735,
         "storeid": "cancer300212",
+        "name": "10000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 10000,
+        "goldcoin": 20000,
+        "limit": 1
+    },
+    {
+        "id": 743,
+        "storeid": "cancer300213",
+        "name": "160花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 160,
+        "goldcoin": 320,
+        "limit": 1
+    },
+    {
+        "id": 744,
+        "storeid": "cancer300214",
+        "name": "650花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 650,
+        "goldcoin": 1300,
+        "limit": 1
+    },
+    {
+        "id": 745,
+        "storeid": "cancer300215",
+        "name": "1200花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 1200,
+        "goldcoin": 2400,
+        "limit": 1
+    },
+    {
+        "id": 746,
+        "storeid": "cancer300216",
+        "name": "2000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 2000,
+        "goldcoin": 4000,
+        "limit": 1
+    },
+    {
+        "id": 747,
+        "storeid": "cancer300217",
+        "name": "3000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 3000,
+        "goldcoin": 6000,
+        "limit": 1
+    },
+    {
+        "id": 748,
+        "storeid": "cancer300218",
+        "name": "4900花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 4900,
+        "goldcoin": 9800,
+        "limit": 1
+    },
+    {
+        "id": 749,
+        "storeid": "cancer300219",
         "name": "10000花嫁コイン(金)×2",
         "type": "consumable",
         "type2": "normal",
