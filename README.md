@@ -8,17 +8,21 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 <br>
 2022-12-15 10:33:55 : $version = "1_33_426"
 <br>
+Website : https://koukun.jp/?p=132
+<br>
 <h2>各jsonの説明</h2>
-各jsonのkeyは適当にそれらしいものをつけただけです。実際の所は不明です。
+jsonファイル名および各jsonのkeyは適当にそれらしいものをつけただけです。実際の所は不明です。
 <h3>AssestBundle</h3>
-　nameがないもの：ツールで変換に失敗したもの 実際にはファイルはあると思われます<br>
+　nameがないもの：ツールで変換に失敗したもの 実際にはファイルはあると思われます(多分？)<br>
 　sizeがないもの：CRID usm映像ファイル<br>
 　idが50からはじまるもの：ACB/AFS 音声ファイル assetsAFSurlの方　hcaの暗号化なし<br>
 　　末尾が0:acbファイル 1:awbファイル<br>
 　その他：UnityFS　画像など<br>
 　<br>
 　リストの元はiosの方ですが、一部androidも混ぜてあります。403でアクセスできない場合はandroidの方にアクセスしてください。
-<h3>campain</h3>
+<h3>ad</h3>
+　広告<br>
+ <h3>campain</h3>
 　懸賞応募ページ<br>
 　su1とsu2は現段階で不明<br>
 <h3>challenge</h3>
@@ -36,13 +40,15 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 　1文字目が3がガチャ説明文<br>
 　idは上のgachaと連動<br>
 <h3>homecharatext</h3>
-　ホーム画面のセリフ一覧かと思ったけどどうやらちがうっぽい<br>
-　現在調査中<br>
+　ホーム画面のセリフ一覧？<br>
 <h3>homework</h3>
 　宿題<br>
 <h3>item</h3>
 　アイテム一覧<br>
 　末尾が1が名前、2が説明<br>
+<h3>itemshop</h3>
+　アイテム課金一覧<br>
+  こちらはコイン消費の方<br>
 <h3>login</h3>
 　ログインボーナス<br>
 <h3>maintenance</h3>
@@ -56,6 +62,8 @@ assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name
 　課金一覧<br>
 <h3>skill</h3>
 　スキル説明一覧<br>
+<h3>stage</h3>
+　ステージ一覧<br>
 <h3>stamp</h3>
 　スタンプ一覧<br>
 <h3>text</h3>
