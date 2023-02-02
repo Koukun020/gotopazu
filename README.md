@@ -6,7 +6,7 @@ AssestBundleURL:https://www-cancer.enish-games.com/v{$version}/resource/list/{Io
 assestURL:https://assets.enish-games.com/assets-cancer/Resources/{ios or android}/{$name}<br>
 assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name}<br>
 <br>
-2022-12-15 10:33:55 : $version = "1_33_426"
+2023-02-01 11:02:13 : $version = "1_34_426"
 <br>
 Website : https://koukun.jp/?p=132
 <br>
