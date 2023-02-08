@@ -3932,5 +3932,82 @@
         "yen": 10000,
         "goldcoin": 20000,
         "limit": 1
+    },
+    {
+        "id": 757,
+        "storeid": "cancer300220",
+        "name": "160花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 160,
+        "goldcoin": 320,
+        "limit": 1
+    },
+    {
+        "id": 758,
+        "storeid": "cancer300221",
+        "name": "650花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 650,
+        "goldcoin": 1300,
+        "limit": 1
+    },
+    {
+        "id": 759,
+        "storeid": "cancer300222",
+        "name": "1200花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 1200,
+        "goldcoin": 2400,
+        "limit": 1
+    },
+    {
+        "id": 760,
+        "storeid": "cancer300223",
+        "name": "2000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 2000,
+        "goldcoin": 4000,
+        "limit": 1
+    },
+    {
+        "id": 761,
+        "storeid": "cancer300224",
+        "name": "3000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 3000,
+        "goldcoin": 6000,
+        "limit": 1
+    },
+    {
+        "id": 762,
+        "storeid": "cancer300225",
+        "name": "4900花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 4900,
+        "goldcoin": 9800,
+        "limit": 1
+    },
+    {
+        "id": 763,
+        "storeid": "cancer300226",
+        "name": "10000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 10000,
+        "goldcoin": 20000,
+        "limit": 1
     }
 ]
