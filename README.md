@@ -6,9 +6,11 @@ AssestBundleURL:https://www-cancer.enish-games.com/v{$version}/resource/list/{Io
 assestURL:https://assets.enish-games.com/assets-cancer/Resources/{ios or android}/{$name}<br>
 assetsAFSurl:https://assets.enish-games.com/assets-cancer/Resources/share/{$name}<br>
 <br>
-2023-02-01 11:02:13 : $version = "1_34_426"
+2023-02-10 10:33:56 : $version = "1_35_426"
 <br>
 Website : https://koukun.jp/?p=132
+<br>
+手動更新のため反映にはタイムラグがあります。
 <br>
 <h2>各jsonの説明</h2>
 jsonファイル名および各jsonのkeyは適当にそれらしいものをつけただけです。実際の所は不明です。
