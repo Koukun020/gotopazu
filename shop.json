@@ -4009,5 +4009,132 @@
         "yen": 10000,
         "goldcoin": 20000,
         "limit": 1
+    },
+    {
+        "id": 771,
+        "storeid": "cancer300227",
+        "name": "160花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 160,
+        "goldcoin": 320,
+        "limit": 1
+    },
+    {
+        "id": 772,
+        "storeid": "cancer300228",
+        "name": "650花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 650,
+        "goldcoin": 1300,
+        "limit": 1
+    },
+    {
+        "id": 773,
+        "storeid": "cancer300229",
+        "name": "1200花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 1200,
+        "goldcoin": 2400,
+        "limit": 1
+    },
+    {
+        "id": 774,
+        "storeid": "cancer300230",
+        "name": "2000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 2000,
+        "goldcoin": 4000,
+        "limit": 1
+    },
+    {
+        "id": 775,
+        "storeid": "cancer300231",
+        "name": "3000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 3000,
+        "goldcoin": 6000,
+        "limit": 1
+    },
+    {
+        "id": 776,
+        "storeid": "cancer300232",
+        "name": "4900花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 4900,
+        "goldcoin": 9800,
+        "limit": 1
+    },
+    {
+        "id": 777,
+        "storeid": "cancer300233",
+        "name": "10000花嫁コイン(金)×2",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "normal",
+        "yen": 10000,
+        "goldcoin": 20000,
+        "limit": 1
+    },
+    {
+        "id": 785,
+        "storeid": "cancer400133",
+        "name": "★5SS育成サポートパック 一花",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "direct",
+        "yen": 2400,
+        "limit": 1
+    },
+    {
+        "id": 786,
+        "storeid": "cancer400134",
+        "name": "★5SS育成サポートパック 二乃",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "direct",
+        "yen": 2400,
+        "limit": 1
+    },
+    {
+        "id": 787,
+        "storeid": "cancer400135",
+        "name": "★5SS育成サポートパック 三玖 ",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "direct",
+        "yen": 2400,
+        "limit": 1
+    },
+    {
+        "id": 788,
+        "storeid": "cancer400136",
+        "name": "★5SS育成サポートパック四葉",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "direct",
+        "yen": 2400,
+        "limit": 1
+    },
+    {
+        "id": 789,
+        "storeid": "cancer400137",
+        "name": "★5SS育成サポートパック 五月",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "direct",
+        "yen": 2400,
+        "limit": 1
     }
 ]
