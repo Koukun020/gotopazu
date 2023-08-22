@@ -309,7 +309,7 @@
         "id": 35,
         "name": "キズナランキング(Season35)",
         "seasonname": "Season35",
-        "assestid": 37100000,
+        "assestid": 37160340,
         "start": 1693407600,
         "end": 1695999599,
         "specialend": 1698677999
@@ -321,6 +321,24 @@
         "assestid": 37100000,
         "start": 1695999600,
         "end": 1698677999,
+        "specialend": 1701269999
+    },
+    {
+        "id": 37,
+        "name": "キズナランキング(Season37)",
+        "seasonname": "Season37",
+        "assestid": 37100000,
+        "start": 1698678000,
+        "end": 1701269999,
+        "specialend": 1703948399
+    },
+    {
+        "id": 38,
+        "name": "キズナランキング(Season38)",
+        "seasonname": "Season38",
+        "assestid": 37100000,
+        "start": 1701270000,
+        "end": 1703948399,
         "specialend": 4133948399
     },
     {
