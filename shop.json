@@ -4829,5 +4829,23 @@
         "yen": 10000,
         "goldcoin": 20000,
         "limit": 1
+    },
+    {
+        "id": 921,
+        "storeid": "cancer400138",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "direct",
+        "yen": 2900,
+        "limit": 1
+    },
+    {
+        "id": 922,
+        "storeid": "cancer400139",
+        "type": "consumable",
+        "type2": "normal",
+        "receive": "direct",
+        "yen": 900,
+        "limit": 1
     }
 ]
