@@ -244,7 +244,8 @@
         "overview": "◆2月15日(木)アクセス不具合対応完了のお知らせ◆",
         "text": "いつも「ごとぱず」をご愛顧いただきまして誠にありがとうございます。\r\n以下の時間にて発生しておりましたアクセス不具合対応が完了いたしました。\r\n\r\n▼アクセス不具合発生日時\r\n2月15日(木)10:30 ～ 11:06\r\n\r\n▼対応内容\r\nアクセス不具合によるメンテナンス\r\n\r\n緊急メンテナンスによりご迷惑をおかけしたお詫びといたしまして、以下を配布いたします。\r\n\r\n▼お詫び内容\r\n全ユーザー\r\n・花嫁コイン(銀)×200\r\n\r\n※プレゼントボックスからの受け取りは3月15日(金)までとなります。\r\n\r\nお客様にはご迷惑をおかけしましたことを深くお詫び申し上げます。\r\n円滑な環境でプレイできますよう最善を尽くします。\r\n今後とも「ごとぱず」をよろしくお願いいたします。",
         "start": "2024-02-15 11:58:14",
-        "end": "2024-03-15 23:59:59"
+        "end": "2024-03-15 23:59:59",
+        "int4": 1
     },
     {
         "id": 2625,
@@ -296,7 +297,7 @@
         "int1": 5,
         "int2": 1,
         "int3": 10,
-        "text": "<p style=\"padding:10;\">◆閏年記念応援パック期間限定販売中！◆<\/p>\r\n\r\n<p style=\"padding:10;\">\r\n閏年を記念して本日から「閏年記念育成応援パック」、「閏年記念★5SS覚醒応援パック」を期間限定で販売開始しました！\r\n\r\n【販売期間】\r\n2024年2月22日(木)11:00 ～ 2月29日(木)23:59\r\n\r\n<\/p>\r\n<table style=\"padding:10;\"><tr style=\"align:uppercenter;padding:15;\">\r\n<td><color=\"#FFFFF\"> 閏年記念育成応援パック<\/color><\/td>\r\n<\/tr><tr style=\"align:upperleft;padding:12;\">\r\n<td>◆ 閏年記念育成応援パック\r\n　価格：花嫁コイン(銀)3,000\r\n　購入制限：5回\r\n構成：\r\n・パンケーキ(小)×60\r\n・パンケーキ(中)×160\r\n・パンケーキ(大)×210\r\n・パンケーキ(特大)×180\r\n・★5SS限界突破素材交換チケ<\/td>\r\n<\/tr><\/table>\r\n<p style=\"padding:10;\">\r\n\r\n<\/p>\r\n<table style=\"padding:10;\"><tr style=\"align:uppercenter;padding:15;\">\r\n<td><color=\"#FFFFF\"> 閏年記念★5SS覚醒応援パック<\/color><\/td>\r\n<\/tr><tr style=\"align:upperleft;padding:12;\">\r\n<td>◆ 閏年記念★5SS覚醒応援パック\r\n　価格：花嫁コイン(銀)5,000\r\n　購入制限：5回\r\n構成：\r\n・キラドキの指輪SS\r\n・★5SS覚醒素材パック交換チケ<\/td>\r\n<\/tr><\/table><p style=\"padding:10;\">\r\n\r\n\r\nぜひ、この機会にお試しくださいね♪\r\n\r\n【注意事項】\r\n※お一人様各5つまで購入できます。\r\n※詳細はショップ画面をご確認ください。\r\n\r\n今後とも「ごとぱず」をよろしくお願いいたします。\r\n<\/p>",
+        "text": "<p style=\"padding:10;\">◆閏年記念応援パック期間限定販売中！◆<\/p>\r\n\r\n<p style=\"padding:10;\">\r\n閏年を記念して本日から「閏年記念育成応援パック」、「閏年記念★5SS覚醒応援パック」を期間限定で販売開始しました！\r\n\r\n【販売期間】\r\n2024年2月22日(木)11:00 ～ 2月29日(木)23:59\r\n\r\n<\/p>\r\n<table style=\"padding:10;\"><tr style=\"align:uppercenter;padding:15;\">\r\n<td><color=\"#FFFFF\"> 閏年記念育成応援パック<\/color><\/td>\r\n<\/tr><tr style=\"align:upperleft;padding:12;\">\r\n<td>◆ 閏年記念育成応援パック\r\n　価格：花嫁コイン(金)3,000\r\n　購入制限：5回\r\n構成：\r\n・パンケーキ(小)×60\r\n・パンケーキ(中)×160\r\n・パンケーキ(大)×210\r\n・パンケーキ(特大)×180\r\n・★5SS限界突破素材交換チケ<\/td>\r\n<\/tr><\/table>\r\n<p style=\"padding:10;\">\r\n\r\n<\/p>\r\n<table style=\"padding:10;\"><tr style=\"align:uppercenter;padding:15;\">\r\n<td><color=\"#FFFFF\"> 閏年記念★5SS覚醒応援パック<\/color><\/td>\r\n<\/tr><tr style=\"align:upperleft;padding:12;\">\r\n<td>◆ 閏年記念★5SS覚醒応援パック\r\n　価格：花嫁コイン(金)5,000\r\n　購入制限：5回\r\n構成：\r\n・キラドキの指輪SS\r\n・★5SS覚醒素材パック交換チケ<\/td>\r\n<\/tr><\/table><p style=\"padding:10;\">\r\n\r\n\r\nぜひ、この機会にお試しくださいね♪\r\n\r\n【注意事項】\r\n※お一人様各5つまで購入できます。\r\n※詳細はショップ画面をご確認ください。\r\n\r\n今後とも「ごとぱず」をよろしくお願いいたします。\r\n<\/p>",
         "start": "2024-02-22 11:00:00",
         "end": "2024-02-29 23:59:59"
     }
